@@ -1,7 +1,7 @@
 Front-End Useful Tools (pt-BR)
 =========
 
-Abaixo uma lista com links de ferramentas on-line úteis para desenvolvedores Front-End. 
+Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Front-End. 
 
 Contribuições são bem vindas.
 
