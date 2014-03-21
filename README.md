@@ -28,6 +28,10 @@ Contribuições são bem vindas.
 ### Geradores de texto
 
 * [Lorem Ipsum](http://br.lipsum.com/)
+
+### Geradores de Protótipos
+
+* [Wireframes](http://quirktools.com/wires/)
  
 ## License
  
