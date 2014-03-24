@@ -11,7 +11,7 @@ Contribuições são bem vindas.
 * [CSS Button Generator](http://css3buttongenerator.com/)
 * [CSS3 Generator](http://css3generator.com/)
 
-### Geradores de fonte
+### Geradores de Fontes
 
 * [Font Squirrel](http://www.fontsquirrel.com/)
 * [Google Fonts](https://www.google.com/fonts)
@@ -21,12 +21,12 @@ Contribuições são bem vindas.
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 * [Icon Moon](icomoon.io/)
 
-### Geradores de imagens
+### Geradores de Imagens
 
 * [Fake images please?](http://fakeimg.pl/)
 * [UI Faces](http://uifaces.com/)
 
-### Geradores de texto
+### Geradores de Texto
 
 * [Lorem Ipsum](http://br.lipsum.com/)
 
