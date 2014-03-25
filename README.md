@@ -10,6 +10,7 @@ Contribuições são bem vindas.
 * [CSS Animate](http://cssanimate.com/)
 * [CSS Button Generator](http://css3buttongenerator.com/)
 * [CSS3 Generator](http://css3generator.com/)
+* [CSS Triangle Generator](http://apps.eky.hk/css-triangle-generator/)
 
 ### Geradores de Fontes
 
