@@ -34,6 +34,11 @@ Contribuições são bem vindas.
 
 * [Wireframes](http://quirktools.com/wires/)
  
+### SVG
+
+* [SVG Editor ](http://petercollingridge.appspot.com/svg-editor/)
+* [SVG Edit ](http://svg-edit.googlecode.com/)
+ 
 ## License
  
 [MIT License](http://felipefialho.mit-license.org/) © Luiz Felipe Tartarotti Fialho
