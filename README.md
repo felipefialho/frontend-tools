@@ -5,6 +5,16 @@ Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Fro
 
 Contribuições são bem vindas.
 
+### Analise Performance
+
+* [GTMetrix] (http://gtmetrix.com/)
+ 
+### Analise Visitas
+
+* [Similar Web] (http://www.similarweb.com/)
+* [Informer] (http://website.informer.com/)
+* [Alexa] (http://www.alexa.com/)
+
 ### Editores Online
 
 * [Codiad](http://codiad.com/)
@@ -43,16 +53,6 @@ Contribuições são bem vindas.
 
 * [SVG Editor ](http://petercollingridge.appspot.com/svg-editor/)
 * [SVG Edit ](http://svg-edit.googlecode.com/)
-
-### Analise Performance
-
-* [GTMetrix] (http://gtmetrix.com/)
- 
-### Analise Visitas
-
-* [Similar Web] (http://www.similarweb.com/)
-* [Informer] (http://website.informer.com/)
-* [Alexa] (http://www.alexa.com/)
 
 ## License
  
