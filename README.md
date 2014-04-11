@@ -11,9 +11,9 @@ Contribuições são bem vindas.
  
 ### Analise Visitas
 
-* [Similar Web] (http://www.similarweb.com/)
-* [Informer] (http://website.informer.com/)
 * [Alexa] (http://www.alexa.com/)
+* [Informer] (http://website.informer.com/)
+* [Similar Web] (http://www.similarweb.com/)
 
 ### Editores Online
 
