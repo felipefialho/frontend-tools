@@ -35,6 +35,7 @@ Contribuições são bem vindas.
 
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 * [Icon Moon](icomoon.io/)
+* [Fontello](http://fontello.com/)
 
 ### Geradores de Imagens
 
