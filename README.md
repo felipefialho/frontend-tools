@@ -31,6 +31,10 @@ Contribuições são bem vindas.
 * [Font Squirrel](http://www.fontsquirrel.com/)
 * [Google Fonts](https://www.google.com/fonts)
 
+### Geradores de Guia de Estilo
+
+* [Stylify Me](http://stylifyme.com/)
+
 ### Geradores de Icons Font
 
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
