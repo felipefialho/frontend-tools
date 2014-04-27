@@ -49,6 +49,7 @@ Contribuições são bem vindas.
 ### Geradores de Texto
 
 * [Lorem Ipsum](http://br.lipsum.com/)
+* [Compadre Ipsum](http://compadreipsum.com.br/)
 
 ### Geradores de Protótipos
 
