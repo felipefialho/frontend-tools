@@ -53,6 +53,10 @@ Contribuições são bem vindas.
 ### Geradores de Protótipos
 
 * [Wireframes](http://quirktools.com/wires/)
+
+### Debuggar Javascript
+
+* [JSHint](http://www.jshint.com/)
  
 ### SVG
 
