@@ -17,7 +17,7 @@ Contribuições são bem vindas.
 
 ### Biblioteca de Plugins
 
-*[Unheap](http://www.unheap.com/)
+* [Unheap](http://www.unheap.com/)
 
 ### Editores Online
 
