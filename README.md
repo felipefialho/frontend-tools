@@ -49,6 +49,7 @@ Contribuições são bem vindas.
 
 * [Fake images please?](http://fakeimg.pl/)
 * [UI Faces](http://uifaces.com/)
+* [Lorempixel](http://lorempixel.com/)
 
 ### Geradores de Texto
 
