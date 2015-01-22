@@ -8,6 +8,7 @@ Contribuições são bem vindas.
 ### Analise Performance
 
 * [GTMetrix](http://gtmetrix.com/)
+* [Web Page Test](http://webpagetest.org/)
 
 ### Analise Visitas
 
@@ -22,6 +23,8 @@ Contribuições são bem vindas.
 ### Editores Online
 
 * [Codiad](http://codiad.com/)
+* [Codepen](http://codepen.io/)
+* [Jsbin](http://jsbin.com/)
 
 ### Geradores CSS
 
@@ -55,10 +58,23 @@ Contribuições são bem vindas.
 
 * [Lorem Ipsum](http://br.lipsum.com/)
 * [Compadre Ipsum](http://compadreipsum.com.br/)
+* [Mussum Ipsum](http://mussumipsum.com/)
 
 ### Geradores de Protótipos
 
 * [Wireframes](http://quirktools.com/wires/)
+* [Mocking Bird](http://gomockingbird.com/)
+
+### Hospedagem de Projetos
+
+* [Github](https://github.com/)
+* [Bitbucket](https://bitbucket.org/)
+
+### Qualidade de Código
+
+* [Validador de HTML](http://validator.w3.org/)
+* [CSS Lint](http://csslint.net/)
+* [JS Hint](http://jshint.com/)
 
 ### SVG
 
