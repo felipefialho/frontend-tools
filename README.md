@@ -16,15 +16,38 @@ Contribuições são bem vindas.
 * [Informer](http://website.informer.com/)
 * [Similar Web](http://www.similarweb.com/)
 
-### Biblioteca de Plugins
+### Biblioteca de Plugins para Jquery
 
 * [Unheap](http://www.unheap.com/)
 
+### Bibliotecas de Web Components
+
+* [Bower](http://bower.io/search/?q=web-components)
+* [Component Kitchen](http://component.kitchen/components)
+* [Custom Elements](http://customelements.io/)
+
+### Cross Browser
+
+* [Browserstack](http://www.browserstack.com/)
+* [Caniuse](http://caniuse.com/)
+* [HTML5 Test](https://html5test.com/)
+
+### Cross Device
+
+* [Responsinator](https://www.responsinator.com/)
+
+### Dúvidas
+
+* [Stackoverflow](http://stackoverflow.com/)
+* [stackoverflow pt-br](http://pt.stackoverflow.com/)
+
 ### Editores Online
 
-* [Codiad](http://codiad.com/)
 * [Codepen](http://codepen.io/)
+* [Codiad](http://codiad.com/)
 * [Jsbin](http://jsbin.com/)
+* [Jsfiddle](http://jsfiddle.net/)
+* [stackedit](https://stackedit.io/)
 
 ### Geradores CSS
 
@@ -65,10 +88,19 @@ Contribuições são bem vindas.
 * [Wireframes](http://quirktools.com/wires/)
 * [Mocking Bird](http://gomockingbird.com/)
 
+### Geradores de Sprites
+
+* [CSS Sprites](http://csssprites.com/)
+
 ### Hospedagem de Projetos
 
 * [Github](https://github.com/)
 * [Bitbucket](https://bitbucket.org/)
+
+### Otimizadores de imagens
+
+* [Smush](http://www.smushit.com/ysmush.it/)
+* [Tiny png](https://tinypng.com/)
 
 ### Qualidade de Código
 
@@ -78,8 +110,8 @@ Contribuições são bem vindas.
 
 ### SVG
 
-* [SVG Editor ](http://petercollingridge.appspot.com/svg-editor/)
-* [SVG Edit ](http://svg-edit.googlecode.com/)
+* [SVG Editor](http://petercollingridge.appspot.com/svg-editor/)
+* [SVG Edit](http://svg-edit.googlecode.com/)
 
 ## License
  
