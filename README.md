@@ -47,7 +47,7 @@ Contribuições são bem vindas.
 * [Codiad](http://codiad.com/)
 * [Jsbin](http://jsbin.com/)
 * [Jsfiddle](http://jsfiddle.net/)
-* [stackedit](https://stackedit.io/)
+* [Stackedit](https://stackedit.io/)
 
 ### Geradores CSS
 
