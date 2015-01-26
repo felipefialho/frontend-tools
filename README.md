@@ -9,6 +9,7 @@ Contribuições são bem vindas.
 
 * [GTMetrix](http://gtmetrix.com/)
 * [Web Page Test](http://webpagetest.org/)
+* [YSlow](http://yslow.org/)
 
 ### Analise Visitas
 
