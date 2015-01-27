@@ -49,6 +49,10 @@ Contribuições são bem vindas.
 * [Jsfiddle](http://jsfiddle.net/)
 * [stackedit](https://stackedit.io/)
 
+### Extrator de PSD
+
+* [Project Parfait](https://projectparfait.adobe.com/)
+
 ### Geradores CSS
 
 * [CSS Animate](http://cssanimate.com/)
