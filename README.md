@@ -73,7 +73,7 @@ Contribuições são bem vindas.
 ### Geradores de Icons Font
 
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
-* [Icon Moon](icomoon.io/)
+* [Icon Moon](https://icomoon.io/)
 * [Fontello](http://fontello.com/)
 
 ### Geradores de Imagens
@@ -121,6 +121,8 @@ Contribuições são bem vindas.
 ### Geradores de Sprites
 
 * [CSS Sprites](http://csssprites.com/)
+* [SpritePad](http://wearekiss.com/spritepad)
+* [Sprite Cow](http://www.spritecow.com/)
 
 ### Hospedagem de Projetos
 
@@ -131,6 +133,7 @@ Contribuições são bem vindas.
 
 * [Smush](http://www.smushit.com/ysmush.it/)
 * [Tiny png](https://tinypng.com/)
+* [Compressor.io](https://compressor.io/)
 
 ### Qualidade de Código
 
@@ -143,6 +146,6 @@ Contribuições são bem vindas.
 * [SVG Editor](http://petercollingridge.appspot.com/svg-editor/)
 * [SVG Edit](http://svg-edit.googlecode.com/)
 
-## License  
+## License
 
 [MIT License](http://felipefialho.mit-license.org/) © Luiz Felipe Tartarotti Fialho
