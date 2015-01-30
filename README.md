@@ -74,7 +74,7 @@ Contribuições são bem vindas.
 ### Geradores de Icons Font
 
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
-* [Icon Moon](icomoon.io/)
+* [Icon Moon](https://icomoon.io/)
 * [Fontello](http://fontello.com/)
 
 ### Geradores de Imagens
@@ -122,6 +122,8 @@ Contribuições são bem vindas.
 ### Geradores de Sprites
 
 * [CSS Sprites](http://csssprites.com/)
+* [SpritePad](http://wearekiss.com/spritepad)
+* [Sprite Cow](http://www.spritecow.com/)
 
 ### Hospedagem de Projetos
 
@@ -132,6 +134,7 @@ Contribuições são bem vindas.
 
 * [Smush](http://www.smushit.com/ysmush.it/)
 * [Tiny png](https://tinypng.com/)
+* [Compressor.io](https://compressor.io/)
 
 ### Qualidade de Código
 
