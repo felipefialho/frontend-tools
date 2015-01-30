@@ -8,6 +8,7 @@ Contribuições são bem vindas.
 ### Analise Performance
 
 * [GTMetrix](http://gtmetrix.com/)
+* [PageSpeed](https://developers.google.com/speed/pagespeed/insights/)
 * [Web Page Test](http://webpagetest.org/)
 
 ### Analise Visitas
@@ -48,6 +49,10 @@ Contribuições são bem vindas.
 * [Jsbin](http://jsbin.com/)
 * [Jsfiddle](http://jsfiddle.net/)
 * [Stackedit](https://stackedit.io/)
+
+### Extrator de PSD
+
+* [Project Parfait](https://projectparfait.adobe.com/)
 
 ### Geradores CSS
 
@@ -138,6 +143,6 @@ Contribuições são bem vindas.
 * [SVG Editor](http://petercollingridge.appspot.com/svg-editor/)
 * [SVG Edit](http://svg-edit.googlecode.com/)
 
-## License
+## License  
 
 [MIT License](http://felipefialho.mit-license.org/) © Luiz Felipe Tartarotti Fialho
