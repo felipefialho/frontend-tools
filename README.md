@@ -1,7 +1,7 @@
 Front-End Useful Tools (pt-BR)
 =========
 
-Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Front-End. 
+Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Front-End.
 
 Contribuições são bem vindas.
 
@@ -82,6 +82,31 @@ Contribuições são bem vindas.
 * [Lorem Ipsum](http://br.lipsum.com/)
 * [Compadre Ipsum](http://compadreipsum.com.br/)
 * [Mussum Ipsum](http://mussumipsum.com/)
+* [Miojo Ipsum](http://miojoipsum.com/)
+* [Trollem Ipsum](trollemipsum.appspot.com/)
+* [Gag Ipsum](http://www.gagipsum.com/)
+* [Fillerama Ipsum](http://chrisvalleskey.com/fillerama/)
+* [Fifty Shades Ipsum](http://www.fiftyshadesgenerator.com/)
+* [Dilmês Ipsum](http://dilmesipsum.com.br/)
+* [Zombie Ipsum](http://www.zombieipsum.com/)
+* [Bacon Ipsum](http://baconipsum.com/)
+* [Veggie Ipsum](http://veggieipsum.com/)
+* [Vegani Ipsum](http://bengreen.org.uk/veganipsum/)
+* [Cupcake Ipsum](http://cupcakeipsum.com/)
+* [Liquor Ipsum](http://liquoripsum.com/)
+* [Hipster Ipsum](http://hipsteripsum.me/)
+* [Slipsum](http://slipsum.com/)
+* [TV Ipsum](http://tvipsum.com/)
+* [Vaticanassass](http://vaticanassass.in/)
+* [Swearem Ipsum](http://www.swearemipsum.com/)
+* [Blindtext](http://www.blindtextgenerator.com/lorem-ipsum)
+* [Random Text](http://randomtextgenerator.com/)
+* [Fillerati](http://www.fillerati.com/)
+* [Lorizzle](http://lorizzle.nl/)
+* [Beer Ipsum](http://beeripsum.com/)
+* [Bluth Ipsum](http://bluthipsum.com/)
+* [Lebowski Ipsum](http://lebowskiipsum.com/)
+
 
 ### Geradores de Protótipos
 
@@ -114,5 +139,5 @@ Contribuições são bem vindas.
 * [SVG Edit](http://svg-edit.googlecode.com/)
 
 ## License
- 
+
 [MIT License](http://felipefialho.mit-license.org/) © Luiz Felipe Tartarotti Fialho
