@@ -8,6 +8,7 @@ Contribuições são bem vindas.
 ### Analise Performance
 
 * [GTMetrix](http://gtmetrix.com/)
+* [PageSpeed](https://developers.google.com/speed/pagespeed/insights/)
 * [Web Page Test](http://webpagetest.org/)
 * [YSlow](http://yslow.org/)
 
