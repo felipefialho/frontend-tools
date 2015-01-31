@@ -20,7 +20,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [Geradores de Icons Font](#geradores-de-icons-font)
 * [Geradores de Imagens](#geradores-de-imagens)
 * [Geradores de Protótipos](#geradores-de-protótipos)
-* [Geradores de Sprites](#heradores-de-sprites)
+* [Geradores de Sprites](#geradores-de-sprites)
 * [Geradores de Texto](#geradores-de-texto)
 * [Hospedagem de Projetos](#hospedagem-de-projetos)
 * [Otimizadores de Imagens](#otimizadores-de-imagens)
