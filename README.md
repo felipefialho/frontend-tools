@@ -60,6 +60,8 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 ### Cross Device
 
 * [Responsinator](https://www.responsinator.com/)
+* [Responsive](http://responsive.victorcoulon.fr/)
+* [Responsive Design Testing](http://mattkersley.com/responsive/)
 
 ### Dúvidas
 
