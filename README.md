@@ -44,6 +44,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 ### Biblioteca de Plugins para Jquery
 
 * [Unheap](http://www.unheap.com/)
+* [JavascriptOO](http://www.javascriptoo.com/)
 
 ### Bibliotecas de Web Components
 
@@ -61,7 +62,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 * [Responsinator](https://www.responsinator.com/)
 * [Responsive](http://responsive.victorcoulon.fr/)
-* [Responsive Design Testing](http://mattkersley.com/responsive/)
+* [Responsive Design Testing](http://matt	kersley.com/responsive/)
 
 ### Dúvidas
 
