@@ -43,8 +43,8 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 ### Biblioteca de Plugins para Jquery
 
-* [Unheap](http://www.unheap.com/)
 * [JavascriptOO](http://www.javascriptoo.com/)
+* [Unheap](http://www.unheap.com/)
 
 ### Bibliotecas de Web Components
 
@@ -62,7 +62,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 * [Responsinator](https://www.responsinator.com/)
 * [Responsive](http://responsive.victorcoulon.fr/)
-* [Responsive Design Testing](http://matt	kersley.com/responsive/)
+* [Responsive Design Testing](http://mattkersley.com/responsive/)
 
 ### Dúvidas
 
@@ -84,6 +84,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 ### Geradores CSS
 
 * [CSS Animate](http://cssanimate.com/)
+* [CSS Border-Radius Generator](http://border-radius.com/)
 * [CSS Button Generator](http://css3buttongenerator.com/)
 * [CSS Triangle Generator](http://apps.eky.hk/css-triangle-generator/)
 * [CSS3 Generator](http://css3generator.com/)
