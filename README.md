@@ -151,6 +151,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 * [Bitbucket](https://bitbucket.org/)
 * [Github](https://github.com/)
+* [Team Foundation Server](https://msdn.microsoft.com/en-us/vstudio/ff637362.aspx)
 
 ### Otimizadores de imagens
 
