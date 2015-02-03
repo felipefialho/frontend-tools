@@ -7,11 +7,13 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 * [Análise Performance](#análise-performance)
 * [Análise Visitas](#análise-visitas)
+* [API](#api)
 * [Biblioteca de Plugins para Jquery](#biblioteca-de-plugins-para-jquery)
 * [Bibliotecas de Web Components](#bibliotecas-de-web-components)
 * [Cross Browser](#cross-browser)
 * [Cross Device](#cross-device)
-* [Documentação Online](#documentção-online)
+* [Documentação Offline](#documentação-offline)
+* [Documentação Online](#documentação-online)
 * [Dúvidas](#dúvidas)
 * [Editores Online](#editores-online)
 * [Extrator de PSD](#extrator-de-psd)
@@ -42,6 +44,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [Informer](http://website.informer.com/)
 * [Similar Web](http://www.similarweb.com/)
 
+### API
+
+* [Mashape](https://www.mashape.com/)
+
 ### Biblioteca de Plugins para Javascript
 
 * [JavascriptOO](http://www.javascriptoo.com/)
@@ -64,6 +70,11 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [Responsinator](https://www.responsinator.com/)
 * [Responsive](http://responsive.victorcoulon.fr/)
 * [Responsive Design Testing](http://mattkersley.com/responsive/)
+* [Screenfly](http://quirktools.com/screenfly/)
+
+### Documentação Offline
+
+* [Dash](http://kapeli.com/dash)
 
 ### Documentação Online
 
@@ -84,6 +95,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 ### Extrator de PSD
 
+* [Extract Adobe](http://www.adobe.com/br/creativecloud/extract.html)
 * [Project Parfait](https://projectparfait.adobe.com/)
 
 ### Geradores CSS
