@@ -11,6 +11,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [Bibliotecas de Web Components](#bibliotecas-de-web-components)
 * [Cross Browser](#cross-browser)
 * [Cross Device](#cross-device)
+* [Documentação Online](#documentção-online)
 * [Dúvidas](#dúvidas)
 * [Editores Online](#editores-online)
 * [Extrator de PSD](#extrator-de-psd)
@@ -41,7 +42,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [Informer](http://website.informer.com/)
 * [Similar Web](http://www.similarweb.com/)
 
-### Biblioteca de Plugins para Jquery
+### Biblioteca de Plugins para Javascript
 
 * [JavascriptOO](http://www.javascriptoo.com/)
 * [Unheap](http://www.unheap.com/)
@@ -63,6 +64,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [Responsinator](https://www.responsinator.com/)
 * [Responsive](http://responsive.victorcoulon.fr/)
 * [Responsive Design Testing](http://mattkersley.com/responsive/)
+
+### Documentação Online
+
+* [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/)
 
 ### Dúvidas
 
@@ -160,6 +165,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 ### Otimizadores de imagens
 
 * [Compressor.io](https://compressor.io/)
+* [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI)
 * [Smush](http://www.smushit.com/ysmush.it/)
 * [Tiny png](https://tinypng.com/)
 
