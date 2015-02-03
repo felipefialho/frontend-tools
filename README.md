@@ -7,10 +7,12 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 * [Análise Performance](#análise-performance)
 * [Análise Visitas](#análise-visitas)
+* [API](#api)
 * [Biblioteca de Plugins para Jquery](#biblioteca-de-plugins-para-jquery)
 * [Bibliotecas de Web Components](#bibliotecas-de-web-components)
 * [Cross Browser](#cross-browser)
 * [Cross Device](#cross-device)
+* [Documentação Offline](#documentação-offline)
 * [Dúvidas](#dúvidas)
 * [Editores Online](#editores-online)
 * [Extrator de PSD](#extrator-de-psd)
@@ -40,6 +42,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [Informer](http://website.informer.com/)
 * [Similar Web](http://www.similarweb.com/)
 
+### API
+
+* [Mashape](https://www.mashape.com/)
+
 ### Biblioteca de Plugins para Jquery
 
 * [Unheap](http://www.unheap.com/)
@@ -59,6 +65,11 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 ### Cross Device
 
 * [Responsinator](https://www.responsinator.com/)
+* [Screenfly](http://quirktools.com/screenfly/)
+
+### Documentação Offline
+
+* [Dash](http://kapeli.com/dash)
 
 ### Dúvidas
 
@@ -75,6 +86,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 ### Extrator de PSD
 
+* [Extract Adobe](http://www.adobe.com/br/creativecloud/extract.html)
 * [Project Parfait](https://projectparfait.adobe.com/)
 
 ### Geradores CSS
