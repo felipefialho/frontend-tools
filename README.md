@@ -8,7 +8,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [Análise Performance](#análise-performance)
 * [Análise Visitas](#análise-visitas)
 * [API](#api)
-* [Biblioteca de Plugins para Jquery](#biblioteca-de-plugins-para-jquery)
+* [Biblioteca de Plugins para Javascript](#biblioteca-de-plugins-para-javascript)
 * [Bibliotecas de Web Components](#bibliotecas-de-web-components)
 * [Cross Browser](#cross-browser)
 * [Cross Device](#cross-device)
