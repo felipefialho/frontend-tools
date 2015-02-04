@@ -13,6 +13,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [Cross Browser](#cross-browser)
 * [Cross Device](#cross-device)
 * [Documentação Offline](#documentação-offline)
+* [Documentação Online](#documentação-online)
 * [Dúvidas](#dúvidas)
 * [Editores Online](#editores-online)
 * [Extrator de PSD](#extrator-de-psd)
@@ -35,6 +36,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [GTMetrix](http://gtmetrix.com/)
 * [PageSpeed](https://developers.google.com/speed/pagespeed/insights/)
 * [Web Page Test](http://webpagetest.org/)
+* [YSlow](http://yslow.org/)
 
 ### Análise Visitas
 
@@ -46,8 +48,9 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 * [Mashape](https://www.mashape.com/)
 
-### Biblioteca de Plugins para Jquery
+### Biblioteca de Plugins para Javascript
 
+* [JavascriptOO](http://www.javascriptoo.com/)
 * [Unheap](http://www.unheap.com/)
 
 ### Bibliotecas de Web Components
@@ -65,11 +68,17 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 ### Cross Device
 
 * [Responsinator](https://www.responsinator.com/)
+* [Responsive](http://responsive.victorcoulon.fr/)
+* [Responsive Design Testing](http://mattkersley.com/responsive/)
 * [Screenfly](http://quirktools.com/screenfly/)
 
 ### Documentação Offline
 
 * [Dash](http://kapeli.com/dash)
+
+### Documentação Online
+
+* [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/)
 
 ### Dúvidas
 
@@ -92,6 +101,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 ### Geradores CSS
 
 * [CSS Animate](http://cssanimate.com/)
+* [CSS Border-Radius Generator](http://border-radius.com/)
 * [CSS Button Generator](http://css3buttongenerator.com/)
 * [CSS Triangle Generator](http://apps.eky.hk/css-triangle-generator/)
 * [CSS3 Generator](http://css3generator.com/)
@@ -162,10 +172,12 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 * [Bitbucket](https://bitbucket.org/)
 * [Github](https://github.com/)
+* [Team Foundation Server](https://msdn.microsoft.com/en-us/vstudio/ff637362.aspx)
 
 ### Otimizadores de imagens
 
 * [Compressor.io](https://compressor.io/)
+* [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI)
 * [Smush](http://www.smushit.com/ysmush.it/)
 * [Tiny png](https://tinypng.com/)
 
