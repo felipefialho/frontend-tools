@@ -79,6 +79,9 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 ### Documentação Online
 
 * [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/)
+* [W3C](http://www.w3.org/)
+* [Web Platform](https://www.webplatform.org/)
+* [WHATWG](https://whatwg.org/)
 
 ### Dúvidas
 
