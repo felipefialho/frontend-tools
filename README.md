@@ -123,6 +123,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [Fontello](http://fontello.com/)
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 * [Icon Moon](https://icomoon.io/)
+* [HTML Arrows](http://htmlarrows.com/)
 
 ### Geradores de Imagens
 
