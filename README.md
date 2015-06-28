@@ -10,6 +10,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [API](#api)
 * [Biblioteca de Plugins para Javascript](#biblioteca-de-plugins-para-javascript)
 * [Bibliotecas de Web Components](#bibliotecas-de-web-components)
+* [Compatibilidade com dispositivos móveis](#compatibilidade-com-dispositivos-móveis)
 * [Cross Browser](#cross-browser)
 * [Cross Device](#cross-device)
 * [Documentação Offline](#documentação-offline)
@@ -58,6 +59,11 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [Bower](http://bower.io/search/?q=web-components)
 * [Component Kitchen](http://component.kitchen/components)
 * [Custom Elements](http://customelements.io/)
+
+### Compatibilidade com dispositivos móveis
+
+* [Mobile Checker](https://validator.w3.org/mobile-alpha/)
+* [Mobile Friendly](https://www.google.com/webmasters/tools/mobile-friendly/)
 
 ### Cross Browser
 
