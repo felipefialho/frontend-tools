@@ -30,6 +30,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [Otimizadores de Imagens](#otimizadores-de-imagens)
 * [Qualidade de Código](#qualidade-de-código)
 * [SVG](#svg)
+* [Validação de acessibilidade](#validação-de-acessibilidade)
 
 ----
 ### Análise Performance
@@ -201,6 +202,11 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 * [SVG Editor](http://petercollingridge.appspot.com/svg-editor/)
 * [SVG Edit](http://svg-edit.googlecode.com/)
+
+### Validação de acessibilidade
+* [508 Checker](http://www.508checker.com/)
+* [Check My Colours](http://www.checkmycolours.com/)
+* [DaSilva](http://www.dasilva.org.br/)
 
 ## License
 
