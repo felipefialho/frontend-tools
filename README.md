@@ -47,7 +47,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [Similar Web](http://www.similarweb.com/)
 
 ### API
-
+* [Apiary](https://apiary.io/)
 * [Mashape](https://www.mashape.com/)
 
 ### Biblioteca de Plugins para Javascript
@@ -142,7 +142,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [UI Faces](http://uifaces.com/)
 
 ### Geradores de Protótipos
-
+* [Marvel](https://marvelapp.com/)
 * [Mocking Bird](http://gomockingbird.com/)
 * [Wireframes](http://quirktools.com/wires/)
 
