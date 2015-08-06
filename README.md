@@ -120,6 +120,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 * [Font Squirrel](http://www.fontsquirrel.com/)
 * [Google Fonts](https://www.google.com/fonts)
+* [Transfonter](http://transfonter.org/)
 
 ### Geradores de Guia de Estilo
 
