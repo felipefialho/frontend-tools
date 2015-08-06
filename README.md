@@ -96,9 +96,11 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [Stackoverflow pt-br](http://pt.stackoverflow.com/)
 
 ### Editores Online
-
+* [Codeanywhere](https://codeanywhere.com/)
+* [CodeCast](http://www.codecast.me/launch/)
 * [Codepen](http://codepen.io/)
 * [Codiad](http://codiad.com/)
+* [CSS Deck](http://cssdeck.com/)
 * [Jsbin](http://jsbin.com/)
 * [Jsfiddle](http://jsfiddle.net/)
 * [Stackedit](https://stackedit.io/)
