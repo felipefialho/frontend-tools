@@ -47,7 +47,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [Similar Web](http://www.similarweb.com/)
 
 ### API
-
+* [Apiary](https://apiary.io/)
 * [Mashape](https://www.mashape.com/)
 
 ### Biblioteca de Plugins para Javascript
@@ -96,9 +96,11 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [Stackoverflow pt-br](http://pt.stackoverflow.com/)
 
 ### Editores Online
-
+* [Codeanywhere](https://codeanywhere.com/)
+* [CodeCast](http://www.codecast.me/launch/)
 * [Codepen](http://codepen.io/)
 * [Codiad](http://codiad.com/)
+* [CSS Deck](http://cssdeck.com/)
 * [Jsbin](http://jsbin.com/)
 * [Jsfiddle](http://jsfiddle.net/)
 * [Stackedit](https://stackedit.io/)
@@ -120,6 +122,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 * [Font Squirrel](http://www.fontsquirrel.com/)
 * [Google Fonts](https://www.google.com/fonts)
+* [Transfonter](http://transfonter.org/)
 
 ### Geradores de Guia de Estilo
 
@@ -139,7 +142,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [UI Faces](http://uifaces.com/)
 
 ### Geradores de Protótipos
-
+* [Marvel](https://marvelapp.com/)
 * [Mocking Bird](http://gomockingbird.com/)
 * [Wireframes](http://quirktools.com/wires/)
 
