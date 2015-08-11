@@ -101,8 +101,11 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [Codepen](http://codepen.io/)
 * [Codiad](http://codiad.com/)
 * [CSS Deck](http://cssdeck.com/)
+* [Ideone](https://ideone.com/)
 * [Jsbin](http://jsbin.com/)
 * [Jsfiddle](http://jsfiddle.net/)
+* [Kodtest](http://kodtest.com/)
+* [Liveweave](http://liveweave.com/)
 * [Stackedit](https://stackedit.io/)
 
 ### Extrator de PSD
@@ -117,6 +120,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [CSS Button Generator](http://css3buttongenerator.com/)
 * [CSS Triangle Generator](http://apps.eky.hk/css-triangle-generator/)
 * [CSS3 Generator](http://css3generator.com/)
+* [UIGradients](http://uigradients.com)
 
 ### Geradores de Fontes
 
