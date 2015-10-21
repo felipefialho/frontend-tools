@@ -114,7 +114,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [Project Parfait](https://projectparfait.adobe.com/)
 
 ### Geradores CSS
-
+* [Blend](http://colinkeany.com/blend/)
 * [CSS Animate](http://cssanimate.com/)
 * [CSS Border-Radius Generator](http://border-radius.com/)
 * [CSS Button Generator](http://css3buttongenerator.com/)
