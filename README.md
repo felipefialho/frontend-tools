@@ -23,6 +23,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [Geradores de Guia de Estilo](#geradores-de-guia-de-estilo)
 * [Geradores de Icons Font](#geradores-de-icons-font)
 * [Geradores de Imagens](#geradores-de-imagens)
+* [Geradores de Nomes](#geradores-de-nomes)
 * [Geradores de Protótipos](#geradores-de-protótipos)
 * [Geradores de Sprites](#geradores-de-sprites)
 * [Geradores de Texto](#geradores-de-texto)
@@ -144,6 +145,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 * [Fake images please?](http://fakeimg.pl/)
 * [Lorempixel](http://lorempixel.com/)
 * [UI Faces](http://uifaces.com/)
+
+### Geradores de Nomes
+
+* [Name That Color](http://chir.ag/projects/name-that-color/)
 
 ### Geradores de Protótipos
 * [Marvel](https://marvelapp.com/)
