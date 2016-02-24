@@ -95,6 +95,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 * [Stackoverflow](http://stackoverflow.com/)
 * [Stackoverflow pt-br](http://pt.stackoverflow.com/)
+* [GH Forum](https://github.com/frontendbr/forum)
 
 ### Editores Online
 * [Codeanywhere](https://codeanywhere.com/)
