@@ -1,6 +1,6 @@
 <p align="center"><img src="https://cloud.githubusercontent.com/assets/3603793/23492511/84625a9e-fee3-11e6-99e0-326160af5f3c.png" width="200"></p>
 
-Front-End Useful Tools (pt-BR)
+Useful Tools
 =========
 
 Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Front-End. 
