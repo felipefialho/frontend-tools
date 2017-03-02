@@ -9,7 +9,7 @@ Follows a list with links of online useful tools to Front-End Developers.
 
 __Help the community doing your contribution. It's easy and simple. Just keep sections in alphabetic order__.
 
-- [Acessibility Validation](#acessibility-validation)
+- [Acessibility Validators](#acessibility-validators)
 - [API](#api)
 - [Code Quality](#code-quality)
 - [Cross Browser](#cross-browser)
