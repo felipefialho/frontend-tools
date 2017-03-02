@@ -86,6 +86,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [CSS Triangle Generator](http://apps.eky.hk/css-triangle-generator/)
 - [CSS3 Generator](http://css3generator.com/)
 - [UIGradients](http://uigradients.com)
+- [WebGradients](https://webgradients.com/)
 
 ## Favicons Generators
 
