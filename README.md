@@ -123,6 +123,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 - [Bitbucket](https://bitbucket.org/)
 - [Github](https://github.com/)
+- [Gitlab](https://gitlab.com/)
 - [Team Foundation Server](https://msdn.microsoft.com/en-us/vstudio/ff637362.aspx)
 
 ## Icons Font Generators
