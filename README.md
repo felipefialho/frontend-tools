@@ -3,9 +3,7 @@
 Front-End Useful Tools (pt-BR)
 =========
 
-Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Front-End.
-
-Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso [guia de contribuição](https://github.com/LFeh/useful-tools/blob/master/CONTRIBUTING.md) e siga o padrão para que tenhamos um repositório organizado e de qualidade.
+Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Front-End. 
 
 * [Análise Performance](#análise-performance)
 * [Análise Visitas](#análise-visitas)
