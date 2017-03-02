@@ -3,7 +3,7 @@
 Useful Tools
 =========
 
-Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Front-End. 
+Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Front-End.
 
 * [Análise Performance](#análise-performance)
 * [Análise Visitas](#análise-visitas)
@@ -19,6 +19,7 @@ Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Fro
 * [Editores Online](#editores-online)
 * [Extrator de PSD](#extrator-de-psd)
 * [Geradores CSS](#geradores-css)
+* [Geradores de Favicons](#geradores-favicons)
 * [Geradores de Fontes](#geradores-de-fontes)
 * [Geradores de Guia de Estilo](#geradores-de-guia-de-estilo)
 * [Geradores de Icons Font](#geradores-de-icons-font)
@@ -83,9 +84,11 @@ Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Fro
 ### Documentação Offline
 
 * [Dash](http://kapeli.com/dash)
+* [Devdocs Offline](http://devdocs.io/offline)
 
 ### Documentação Online
 
+* [Devdocs](http://devdocs.io/)
 * [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/)
 * [W3C](http://www.w3.org/)
 * [Web Platform](https://www.webplatform.org/)
@@ -112,23 +115,35 @@ Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Fro
 
 ### Extrator de PSD
 
+* [Avocode](https://avocode.com/) _Trial/Pago_
 * [Extract Adobe](http://www.adobe.com/br/creativecloud/extract.html)
 * [Project Parfait](https://projectparfait.adobe.com/)
 
+
 ### Geradores CSS
+
 * [Blend](http://colinkeany.com/blend/)
 * [CSS Animate](http://cssanimate.com/)
 * [CSS Border-Radius Generator](http://border-radius.com/)
 * [CSS Button Generator](http://css3buttongenerator.com/)
+* [CSS Gradient Editor ](http://www.colorzilla.com/gradient-editor/)
 * [CSS Triangle Generator](http://apps.eky.hk/css-triangle-generator/)
 * [CSS3 Generator](http://css3generator.com/)
 * [UIGradients](http://uigradients.com)
 
+### Geratores de Favicons
+
+* [Favic-o-matic](http://www.favicomatic.com/)
+* [Favicon & App Icon Generator](http://www.favicon-generator.org/)
+* [Real Favicon Generator](http://realfavicongenerator.net/)
+
 ### Geradores de Fontes
 
 * [Font Squirrel](http://www.fontsquirrel.com/)
+* [Fontie](https://fontie.flowyapps.com/home)
 * [Google Fonts](https://www.google.com/fonts)
 * [Transfonter](http://transfonter.org/)
+* [Online Font Converter](https://onlinefontconverter.com/)
 
 ### Geradores de Guia de Estilo
 
@@ -145,10 +160,14 @@ Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Fro
 
 * [Fake images please?](http://fakeimg.pl/)
 * [Lorempixel](http://lorempixel.com/)
+* [Placehold.it](http://placehold.it/)
 * [UI Faces](http://uifaces.com/)
 
 ### Geradores de Nomes
 
+* [Behind The Name](http://www.behindthename.com/random/)
+* [Fantasy Name Generator](http://fantasynamegenerators.com/)
+* [Intel Codename Picker](https://www.npmjs.com/package/intel-codenames-picker)
 * [Name That Color](http://chir.ag/projects/name-that-color/)
 
 ### Geradores de Protótipos
@@ -202,12 +221,14 @@ Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Fro
 
 * [Compressor.io](https://compressor.io/)
 * [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI)
+* [Kraken.io](https://kraken.io/web-interface)
 * [Smush](http://www.smushit.com/ysmush.it/)
 * [Tiny png](https://tinypng.com/)
 
 ### Qualidade de Código
 
 * [CSS Lint](http://csslint.net/)
+* [ESLint](http://eslint.org/)
 * [JS Hint](http://jshint.com/)
 * [Validador de HTML](http://validator.w3.org/)
 
@@ -215,6 +236,7 @@ Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Fro
 
 * [SVG Editor](http://petercollingridge.appspot.com/svg-editor/)
 * [SVG Edit](http://svg-edit.googlecode.com/)
+* [SVG Optimizer Online GUI](https://jakearchibald.github.io/svgomg/)
 
 ### Validação de acessibilidade
 * [508 Checker](http://www.508checker.com/)
