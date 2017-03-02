@@ -19,6 +19,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Font-face Generators](#font-face-generators)
 - [Forums](#forums)
 - [Frameworks](#frameworks)
+- [Git](#git)
 - [Hosting](#hosting-projects)
 - [Icons font generators](#icons-font-generators)
 - [Images Generators](#images-generators)
@@ -110,6 +111,10 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 - [MJML - Email Framework](https://mjml.io/)
 
+## Git
+
+- [gitignore.io](https://www.gitignore.io/)
+
 ## Hosting Projects
 
 - [Bitbucket](https://bitbucket.org/)
@@ -118,6 +123,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## Icons Font Generators
 
+- [Character Entities](https://brajeshwar.github.io/entities/)
 - [Fontello](http://fontello.com/)
 - [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 - [Icon Moon](https://icomoon.io/)
@@ -171,6 +177,8 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 ## Online Docs
 
 - [Devdocs](http://devdocs.io/)
+- [Emmet Cheat Sheet](http://docs.emmet.io/cheat-sheet/)
+- [HTML Reference](http://htmlreference.io/)
 - [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/) <span>&#x1f1e7;&#x1f1f7;</span>
 - [W3C](http://www.w3.org/)
 - [Web Platform](https://www.webplatform.org/)
@@ -193,9 +201,12 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 ## Prototypes Generators
 
 - [Marvel](https://marvelapp.com/)
+- [Mockflow](https://www.mockflow.com/)
 - [Mocking Bird](http://gomockingbird.com/)
-- [Wireframes](http://quirktools.com/wires/)
+- [Moqups](https://moqups.com/)
+- [QuirkTools Wires](http://quirktools.com/wires/)
 - [Figma](https://www.figma.com/)
+- [Wireframe.cc](https://wireframe.cc/)
 
 ## PSD Extractors
 
@@ -205,6 +216,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## Style Guide Generators
 
+- [Catalog](https://interactivethings.github.io/catalog/)
 - [Stylify Me](http://stylifyme.com/)
 
 ## Sprites Generators
