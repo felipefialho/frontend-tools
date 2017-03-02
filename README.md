@@ -1,8 +1,10 @@
 <p align="center"><img src="https://cloud.githubusercontent.com/assets/3603793/23492511/84625a9e-fee3-11e6-99e0-326160af5f3c.png" width="200"></p>
 
-# Frontender Tools 
+# Frontender Tools
 
 Follows a list with links of online useful tools to Front-End Developers.
+
+__Help the community doing your contribution. It's easy and simple. Just keep sections in alphabetic order__.
 
 - [Acessibility Validation](#acessibility-validation)
 - [API](#api)
@@ -15,7 +17,7 @@ Follows a list with links of online useful tools to Front-End Developers.
 - [Hosting](#hosting-projects)
 - [Icons font generators](#icons-font-generators)
 - [Images Generators](#images-generators)
-- [Image Optimizers](#image-optimizers)
+- [Images Optimizers](#image-optimizers)
 - [Javascript Libs](#javascript-libs)
 - [Mobile Devices Compatibility](#mobile-devices-compatibility)
 - [Names Generators](#names-generators)
@@ -25,7 +27,7 @@ Follows a list with links of online useful tools to Front-End Developers.
 - [Online Editors](#online-editors)
 - [Prototypes generators](#prototypes-generators)
 - [PSD Extractors](#psd-extractors)
-- [Style Guide Fenerators](#style-guide-generators)
+- [Style Guide Generators](#style-guide-generators)
 - [Sprites generators](#sprites-generators)
 - [SVG](#svg)
 - [Text generators](#text-generators)
@@ -34,39 +36,22 @@ Follows a list with links of online useful tools to Front-End Developers.
 
 ----
 
-## Performance Analysis
+## Acessibility Validators
 
-- [GTMetrix](http://gtmetrix.com/)
-- [PageSpeed](https://developers.google.com/speed/pagespeed/insights/)
-- [Web Page Test](http://webpagetest.org/)
-- [YSlow](http://yslow.org/)
-
-## Visits Analysis
-
-- [Alexa](http://www.alexa.com/)
-- [Informer](http://website.informer.com/)
-- [Similar Web](http://www.similarweb.com/)
+- [508 Checker](http://www.508checker.com/)
+- [Check My Colours](http://www.checkmycolours.com/)
+- [DaSilva](http://www.dasilva.org.br/) <span>&#x1f1e7;&#x1f1f7;</span>
 
 ## API
 
 - [Apiary](https://apiary.io/)
 - [Mashape](https://www.mashape.com/)
 
-## Javascript Libs
+## Code Quality
 
-- [JavascriptOO](http://www.javascriptoo.com/)
-- [Unheap](http://www.unheap.com/)
-
-## Web Components Libs
-
-- [Bower](http://bower.io/search/?q=web-components)
-- [Component Kitchen](http://component.kitchen/components)
-- [Custom Elements](http://customelements.io/)
-
-## Mobile Devices Compatibility
-
-- [Mobile Checker](https://validator.w3.org/mobile-alpha/)
-- [Mobile Friendly](https://www.google.com/webmasters/tools/mobile-friendly/)
+- [CSS Lint](http://csslint.net/)
+- [JS Hint](http://jshint.com/)
+- [Validador de HTML](http://validator.w3.org/)
 
 ## Cross Browser
 
@@ -80,42 +65,6 @@ Follows a list with links of online useful tools to Front-End Developers.
 - [Responsive](http://responsive.victorcoulon.fr/)
 - [Responsive Design Testing](http://mattkersley.com/responsive/)
 - [Screenfly](http://quirktools.com/screenfly/)
-
-## Offline Docs
-
-- [Dash](http://kapeli.com/dash)
-
-## Online Docs
-
-- [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/) <span>&#x1f1e7;&#x1f1f7;</span>
-- [W3C](http://www.w3.org/)
-- [Web Platform](https://www.webplatform.org/)
-- [WHATWG](https://whatwg.org/)
-
-## Forums
-
-- [Stackoverflow](http://stackoverflow.com/)
-- [Stackoverflow pt-br](http://pt.stackoverflow.com/) <span>&#x1f1e7;&#x1f1f7;</span>
-- [GH Forum](https://github.com/frontendbr/forum) <span>&#x1f1e7;&#x1f1f7;</span>
-
-## Online editors
-
-- [Codeanywhere](https://codeanywhere.com/)
-- [CodeCast](http://www.codecast.me/launch/)
-- [Codepen](http://codepen.io/)
-- [Codiad](http://codiad.com/)
-- [CSS Deck](http://cssdeck.com/)
-- [Ideone](https://ideone.com/)
-- [Jsbin](http://jsbin.com/)
-- [Jsfiddle](http://jsfiddle.net/)
-- [Kodtest](http://kodtest.com/)
-- [Liveweave](http://liveweave.com/)
-- [Stackedit](https://stackedit.io/)
-
-## PSD Extractors
-
-- [Extract Adobe](http://www.adobe.com/br/creativecloud/extract.html)
-- [Project Parfait](https://projectparfait.adobe.com/)
 
 ## CSS Generators
 
@@ -133,9 +82,17 @@ Follows a list with links of online useful tools to Front-End Developers.
 - [Google Fonts](https://www.google.com/fonts)
 - [Transfonter](http://transfonter.org/)
 
-## Style Guide Generators
+## Forums
 
-- [Stylify Me](http://stylifyme.com/)
+- [Stackoverflow](http://stackoverflow.com/)
+- [Stackoverflow pt-br](http://pt.stackoverflow.com/) <span>&#x1f1e7;&#x1f1f7;</span>
+- [GH Forum](https://github.com/frontendbr/forum) <span>&#x1f1e7;&#x1f1f7;</span>
+
+## Hosting Projects
+
+- [Bitbucket](https://bitbucket.org/)
+- [Github](https://github.com/)
+- [Team Foundation Server](https://msdn.microsoft.com/en-us/vstudio/ff637362.aspx)
 
 ## Icons Font Generators
 
@@ -150,9 +107,58 @@ Follows a list with links of online useful tools to Front-End Developers.
 - [Lorempixel](http://lorempixel.com/)
 - [UI Faces](http://uifaces.com/)
 
+## Images Optimizers
+
+- [Compressor.io](https://compressor.io/)
+- [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI)
+- [Smush](http://www.smushit.com/ysmush.it/)
+- [Tiny png](https://tinypng.com/)
+
+## Javascript Libs
+
+- [JavascriptOO](http://www.javascriptoo.com/)
+- [Unheap](http://www.unheap.com/)
+
+## Mobile Devices Compatibility
+
+- [Mobile Checker](https://validator.w3.org/mobile-alpha/)
+- [Mobile Friendly](https://www.google.com/webmasters/tools/mobile-friendly/)
+
 ## Names Generators
 
 - [Name That Color](http://chir.ag/projects/name-that-color/)
+
+## Performance Analysis
+
+- [GTMetrix](http://gtmetrix.com/)
+- [PageSpeed](https://developers.google.com/speed/pagespeed/insights/)
+- [Web Page Test](http://webpagetest.org/)
+- [YSlow](http://yslow.org/)
+
+## Offline Docs
+
+- [Dash](http://kapeli.com/dash)
+
+## Online Docs
+
+- [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/) <span>&#x1f1e7;&#x1f1f7;</span>
+- [W3C](http://www.w3.org/)
+- [Web Platform](https://www.webplatform.org/)
+- [WHATWG](https://whatwg.org/)
+
+## Online editors
+
+- [Codeanywhere](https://codeanywhere.com/)
+- [CodeCast](http://www.codecast.me/launch/)
+- [Codepen](http://codepen.io/)
+- [Codiad](http://codiad.com/)
+- [CSS Deck](http://cssdeck.com/)
+- [Ideone](https://ideone.com/)
+- [Jsbin](http://jsbin.com/)
+- [Jsfiddle](http://jsfiddle.net/)
+- [Kodtest](http://kodtest.com/)
+- [Liveweave](http://liveweave.com/)
+- [Stackedit](https://stackedit.io/)
 
 ## Prototypes Generators
 
@@ -160,11 +166,25 @@ Follows a list with links of online useful tools to Front-End Developers.
 - [Mocking Bird](http://gomockingbird.com/)
 - [Wireframes](http://quirktools.com/wires/)
 
+## PSD Extractors
+
+- [Extract Adobe](http://www.adobe.com/br/creativecloud/extract.html)
+- [Project Parfait](https://projectparfait.adobe.com/)
+
+## Style Guide Generators
+
+- [Stylify Me](http://stylifyme.com/)
+
 ## Sprites Generators
 
 - [CSS Sprites](http://csssprites.com/)
 - [SpritePad](http://wearekiss.com/spritepad)
 - [Sprite Cow](http://www.spritecow.com/)
+
+## SVG
+
+- [SVG Editor](http://petercollingridge.appspot.com/svg-editor/)
+- [SVG Edit](http://svg-edit.googlecode.com/)
 
 ## Text Generators
 
@@ -196,35 +216,17 @@ Follows a list with links of online useful tools to Front-End Developers.
 - [Veggie Ipsum](http://veggieipsum.com/)
 - [Zombie Ipsum](http://www.zombieipsum.com/)
 
-## Hosting Projects
+## Visits Analysis
 
-- [Bitbucket](https://bitbucket.org/)
-- [Github](https://github.com/)
-- [Team Foundation Server](https://msdn.microsoft.com/en-us/vstudio/ff637362.aspx)
+- [Alexa](http://www.alexa.com/)
+- [Informer](http://website.informer.com/)
+- [Similar Web](http://www.similarweb.com/)
 
-## Images Optimizers
+## Web Components Libs
 
-- [Compressor.io](https://compressor.io/)
-- [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI)
-- [Smush](http://www.smushit.com/ysmush.it/)
-- [Tiny png](https://tinypng.com/)
-
-## Code Quality
-
-- [CSS Lint](http://csslint.net/)
-- [JS Hint](http://jshint.com/)
-- [Validador de HTML](http://validator.w3.org/)
-
-## SVG
-
-- [SVG Editor](http://petercollingridge.appspot.com/svg-editor/)
-- [SVG Edit](http://svg-edit.googlecode.com/)
-
-## Acessibility Validators
-
-- [508 Checker](http://www.508checker.com/)
-- [Check My Colours](http://www.checkmycolours.com/)
-- [DaSilva](http://www.dasilva.org.br/) <span>&#x1f1e7;&#x1f1f7;</span>
+- [Bower](http://bower.io/search/?q=web-components)
+- [Component Kitchen](http://component.kitchen/components)
+- [Custom Elements](http://customelements.io/)
 
 ## License
 
