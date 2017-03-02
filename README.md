@@ -177,6 +177,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 ## Online Docs
 
 - [Devdocs](http://devdocs.io/)
+- [Emmet Cheat Sheet](http://docs.emmet.io/cheat-sheet/)
 - [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/) <span>&#x1f1e7;&#x1f1f7;</span>
 - [W3C](http://www.w3.org/)
 - [Web Platform](https://www.webplatform.org/)
