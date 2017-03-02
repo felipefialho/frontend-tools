@@ -12,6 +12,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Cross Browser](#cross-browser)
 - [Cross Device](#cross-device)
 - [CSS Generators](#css-generators)
+- [Favicons Generators](#favicons-generators)
 - [Font-face Generators](#font-face-generators)
 - [Forums](#forums)
 - [Hosting](#hosting-projects)
@@ -50,6 +51,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 ## Code Quality
 
 - [CSS Lint](http://csslint.net/)
+- [ESLint](http://eslint.org/)
 - [JS Hint](http://jshint.com/)
 - [Validador de HTML](http://validator.w3.org/)
 
@@ -72,15 +74,24 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [CSS Animate](http://cssanimate.com/)
 - [CSS Border-Radius Generator](http://border-radius.com/)
 - [CSS Button Generator](http://css3buttongenerator.com/)
+- [CSS Gradient Editor ](http://www.colorzilla.com/gradient-editor/)
 - [CSS Triangle Generator](http://apps.eky.hk/css-triangle-generator/)
 - [CSS3 Generator](http://css3generator.com/)
 - [UIGradients](http://uigradients.com)
 
+## Favicons Generators
+
+- [Favic-o-matic](http://www.favicomatic.com/)
+- [Favicon & App Icon Generator](http://www.favicon-generator.org/)
+- [Real Favicon Generator](http://realfavicongenerator.net/)
+
 ## Font-Face Generators
 
 - [Font Squirrel](http://www.fontsquirrel.com/)
+- [Fontie](https://fontie.flowyapps.com/home)
 - [Google Fonts](https://www.google.com/fonts)
 - [Transfonter](http://transfonter.org/)
+- [Online Font Converter](https://onlinefontconverter.com/)
 
 ## Forums
 
@@ -105,12 +116,14 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 - [Fake images please?](http://fakeimg.pl/)
 - [Lorempixel](http://lorempixel.com/)
+- [Placehold.it](http://placehold.it/)
 - [UI Faces](http://uifaces.com/)
 
 ## Images Optimizers
 
 - [Compressor.io](https://compressor.io/)
 - [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI)
+- [Kraken.io](https://kraken.io/web-interface)
 - [Smush](http://www.smushit.com/ysmush.it/)
 - [Tiny png](https://tinypng.com/)
 
@@ -126,6 +139,9 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## Names Generators
 
+- [Behind The Name](http://www.behindthename.com/random/)
+- [Fantasy Name Generator](http://fantasynamegenerators.com/)
+- [Intel Codename Picker](https://www.npmjs.com/package/intel-codenames-picker)
 - [Name That Color](http://chir.ag/projects/name-that-color/)
 
 ## Performance Analysis
@@ -138,9 +154,11 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 ## Offline Docs
 
 - [Dash](http://kapeli.com/dash)
+- [Devdocs Offline](http://devdocs.io/offline)
 
 ## Online Docs
 
+- [Devdocs](http://devdocs.io/)
 - [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/) <span>&#x1f1e7;&#x1f1f7;</span>
 - [W3C](http://www.w3.org/)
 - [Web Platform](https://www.webplatform.org/)
@@ -168,6 +186,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## PSD Extractors
 
+- [Avocode](https://avocode.com/) _Trial/Paid_
 - [Extract Adobe](http://www.adobe.com/br/creativecloud/extract.html)
 - [Project Parfait](https://projectparfait.adobe.com/)
 
@@ -183,8 +202,9 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## SVG
 
-- [SVG Editor](http://petercollingridge.appspot.com/svg-editor/)
 - [SVG Edit](http://svg-edit.googlecode.com/)
+- [SVG Editor](http://petercollingridge.appspot.com/svg-editor/)
+- [SVG Optimizer Online GUI](https://jakearchibald.github.io/svgomg/)
 
 ## Text Generators
 
