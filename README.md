@@ -123,6 +123,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## Icons Font Generators
 
+- [Character Entities](https://brajeshwar.github.io/entities/)
 - [Fontello](http://fontello.com/)
 - [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 - [Icon Moon](https://icomoon.io/)
