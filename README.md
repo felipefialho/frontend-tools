@@ -223,4 +223,4 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse nosso
 
 ## License
 
-[MIT License](http://felipefialho.mit-license.org/) © Luiz Felipe Tartarotti Fialho
+[MIT License](http://felipefialho.mit-license.org/) © Felipe Fialho
