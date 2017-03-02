@@ -193,8 +193,9 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 ## Prototypes Generators
 
 - [Marvel](https://marvelapp.com/)
+- [Mockflow](https://www.mockflow.com/)
 - [Mocking Bird](http://gomockingbird.com/)
-- [Wireframes](http://quirktools.com/wires/)
+- [QuirkTools Wires](http://quirktools.com/wires/)
 - [Figma](https://www.figma.com/)
 
 ## PSD Extractors
