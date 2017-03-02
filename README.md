@@ -19,6 +19,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Font-face Generators](#font-face-generators)
 - [Forums](#forums)
 - [Frameworks](#frameworks)
+- [Git](#git)
 - [Hosting](#hosting-projects)
 - [Icons font generators](#icons-font-generators)
 - [Images Generators](#images-generators)
