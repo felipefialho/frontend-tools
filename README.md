@@ -1,46 +1,46 @@
 <p align="center"><img src="https://cloud.githubusercontent.com/assets/3603793/23492511/84625a9e-fee3-11e6-99e0-326160af5f3c.png" width="200"></p>
 
-Front-End Useful Tools
+Front-end Useful Tools
 =========
+Below a list with links of online useful tools for front-end developers.
 
-Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Front-End. 
-
-- [Análise Performance](#análise-performance)
-- [Análise Visitas](#análise-visitas)
+- [Performance analysis](#performance-analysis)
+- [Visits analysis](#visits-analysis)
 - [API](#api)
-- [Biblioteca de Plugins para Javascript](#biblioteca-de-plugins-para-javascript)
-- [Bibliotecas de Web Components](#bibliotecas-de-web-components)
-- [Compatibilidade com dispositivos móveis](#compatibilidade-com-dispositivos-móveis)
+- [Javascript Libs](#javascript-libs)
+- [Web Components Libs](#web-components-libs)
+- [Mobile devices compatibility](#mobile-devices-compatibility)
 - [Cross Browser](#cross-browser)
 - [Cross Device](#cross-device)
-- [Documentação Offline](#documentação-offline)
-- [Documentação Online](#documentação-online)
-- [Dúvidas](#dúvidas)
-- [Editores Online](#editores-online)
-- [Extrator de PSD](#extrator-de-psd)
-- [Geradores CSS](#geradores-css)
-- [Geradores de Fontes](#geradores-de-fontes)
-- [Geradores de Guia de Estilo](#geradores-de-guia-de-estilo)
-- [Geradores de Icons Font](#geradores-de-icons-font)
-- [Geradores de Imagens](#geradores-de-imagens)
-- [Geradores de Nomes](#geradores-de-nomes)
-- [Geradores de Protótipos](#geradores-de-protótipos)
-- [Geradores de Sprites](#geradores-de-sprites)
-- [Geradores de Texto](#geradores-de-texto)
-- [Hospedagem de Projetos](#hospedagem-de-projetos)
-- [Otimizadores de Imagens](#otimizadores-de-imagens)
-- [Qualidade de Código](#qualidade-de-código)
+- [Offline docs](#offline-docs)
+- [Online docs](#online-docs)
+- [Forums](#forums)
+- [Online editors](#online-editors)
+- [PSD Extractors](#psd-extractors)
+- [CSS generators](#css-generators)
+- [Font-face generators](#font-face-generators)
+- [Style guide generators](#style-guide-generators)
+- [Icons font generators](#icons-font-generators)
+- [Images generators](#images-generators)
+- [Names generators](#names-generators)
+- [Prototypes generators](#prototypes-generators)
+- [Sprites generators](#sprites-generators)
+- [Text generators](#text-generators)
+- [Hosting projects](#hosting-projects)
+- [Image optimizers](#image-optimizers)
+- [Code quality](#code-quality)
 - [SVG](#svg)
-- [Validação de acessibilidade](#validação-de-acessibilidade)
+- [Acessibility validation](#acessibility-validation)
 
 ----
-### Análise Performance
+
+### Performance Analysis
 - [GTMetrix](http://gtmetrix.com/)
 - [PageSpeed](https://developers.google.com/speed/pagespeed/insights/)
 - [Web Page Test](http://webpagetest.org/)
 - [YSlow](http://yslow.org/)
 
-### Análise Visitas
+### Visits Analysis
 - [Alexa](http://www.alexa.com/)
 - [Informer](http://website.informer.com/)
 - [Similar Web](http://www.similarweb.com/)
@@ -49,21 +49,20 @@ Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Fro
 - [Apiary](https://apiary.io/)
 - [Mashape](https://www.mashape.com/)
 
-### Biblioteca de Plugins para Javascript
+### Javascript Libs
 - [JavascriptOO](http://www.javascriptoo.com/)
 - [Unheap](http://www.unheap.com/)
 
-### Bibliotecas de Web Components
+### Web Components Libs
 - [Bower](http://bower.io/search/?q=web-components)
 - [Component Kitchen](http://component.kitchen/components)
 - [Custom Elements](http://customelements.io/)
 
-### Compatibilidade com dispositivos móveis
+### Mobile Devices Compatibility
 - [Mobile Checker](https://validator.w3.org/mobile-alpha/)
 - [Mobile Friendly](https://www.google.com/webmasters/tools/mobile-friendly/)
 
 ### Cross Browser
-
 - [Browserstack](http://www.browserstack.com/)
 - [Caniuse](http://caniuse.com/)
 - [HTML5 Test](https://html5test.com/)
@@ -74,21 +73,21 @@ Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Fro
 - [Responsive Design Testing](http://mattkersley.com/responsive/)
 - [Screenfly](http://quirktools.com/screenfly/)
 
-### Documentação Offline
+### Offline Docs
 - [Dash](http://kapeli.com/dash)
 
-### Documentação Online
-- [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/)
+### Online Docs
+- [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/) <span>&#x1f1e7;&#x1f1f7;</span>
 - [W3C](http://www.w3.org/)
 - [Web Platform](https://www.webplatform.org/)
 - [WHATWG](https://whatwg.org/)
 
-### Dúvidas
+### Forums
 - [Stackoverflow](http://stackoverflow.com/)
-- [Stackoverflow pt-br](http://pt.stackoverflow.com/)
-- [GH Forum](https://github.com/frontendbr/forum)
+- [Stackoverflow pt-br](http://pt.stackoverflow.com/) <span>&#x1f1e7;&#x1f1f7;</span>
+- [GH Forum](https://github.com/frontendbr/forum) <span>&#x1f1e7;&#x1f1f7;</span>
 
-### Editores Online
+### Online editors
 - [Codeanywhere](https://codeanywhere.com/)
 - [CodeCast](http://www.codecast.me/launch/)
 - [Codepen](http://codepen.io/)
@@ -101,11 +100,11 @@ Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Fro
 - [Liveweave](http://liveweave.com/)
 - [Stackedit](https://stackedit.io/)
 
-### Extrator de PSD
+### PSD Extractors
 - [Extract Adobe](http://www.adobe.com/br/creativecloud/extract.html)
 - [Project Parfait](https://projectparfait.adobe.com/)
 
-### Geradores CSS
+### CSS Generators
 - [Blend](http://colinkeany.com/blend/)
 - [CSS Animate](http://cssanimate.com/)
 - [CSS Border-Radius Generator](http://border-radius.com/)
@@ -114,46 +113,46 @@ Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Fro
 - [CSS3 Generator](http://css3generator.com/)
 - [UIGradients](http://uigradients.com)
 
-### Geradores de Fontes
+### Font-Face Generators
 - [Font Squirrel](http://www.fontsquirrel.com/)
 - [Google Fonts](https://www.google.com/fonts)
 - [Transfonter](http://transfonter.org/)
 
-### Geradores de Guia de Estilo
+### Style Guide Generators
 - [Stylify Me](http://stylifyme.com/)
 
-### Geradores de Icons Font
+### Icons Font Generators
 - [Fontello](http://fontello.com/)
 - [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 - [Icon Moon](https://icomoon.io/)
 - [HTML Arrows](http://htmlarrows.com/)
 
-### Geradores de Imagens
+### Images Generators
 - [Fake images please?](http://fakeimg.pl/)
 - [Lorempixel](http://lorempixel.com/)
 - [UI Faces](http://uifaces.com/)
 
-### Geradores de Nomes
+### Names Generators
 - [Name That Color](http://chir.ag/projects/name-that-color/)
 
-### Geradores de Protótipos
+### Prototypes Generators
 - [Marvel](https://marvelapp.com/)
 - [Mocking Bird](http://gomockingbird.com/)
 - [Wireframes](http://quirktools.com/wires/)
 
-### Geradores de Sprites
+### Sprites Generators
 - [CSS Sprites](http://csssprites.com/)
 - [SpritePad](http://wearekiss.com/spritepad)
 - [Sprite Cow](http://www.spritecow.com/)
 
-### Geradores de Texto
+### Text Generators
 - [Bacon Ipsum](http://baconipsum.com/)
 - [Beer Ipsum](http://beeripsum.com/)
 - [Blindtext](http://www.blindtextgenerator.com/lorem-ipsum)
 - [Bluth Ipsum](http://bluthipsum.com/)
-- [Compadre Ipsum](http://compadreipsum.com.br/)
+- [Compadre Ipsum](http://compadreipsum.com.br/) <span>&#x1f1e7;&#x1f1f7;</span>
 - [Cupcake Ipsum](http://cupcakeipsum.com/)
-- [Dilmês Ipsum](http://dilmesipsum.com.br/)
+- [Dilmês Ipsum](http://dilmesipsum.com.br/) <span>&#x1f1e7;&#x1f1f7;</span>
 - [Fifty Shades Ipsum](http://www.fiftyshadesgenerator.com/)
 - [Fillerama Ipsum](http://chrisvalleskey.com/fillerama/)
 - [Fillerati](http://www.fillerati.com/)
@@ -161,10 +160,10 @@ Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Fro
 - [Hipster Ipsum](http://hipsteripsum.me/)
 - [Lebowski Ipsum](http://lebowskiipsum.com/)
 - [Liquor Ipsum](http://liquoripsum.com/)
-- [Lorem Ipsum](http://br.lipsum.com/)
+- [Lorem Ipsum](http://br.lipsum.com/) <span>&#x1f1e7;&#x1f1f7;</span>
 - [Lorizzle](http://lorizzle.nl/)
 - [Miojo Ipsum](http://miojoipsum.com/)
-- [Mussum Ipsum](http://mussumipsum.com/)
+- [Mussum Ipsum](http://mussumipsum.com/) <span>&#x1f1e7;&#x1f1f7;</span>
 - [Random Text](http://randomtextgenerator.com/)
 - [Slipsum](http://slipsum.com/)
 - [Swearem Ipsum](http://www.swearemipsum.com/)
@@ -175,18 +174,18 @@ Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Fro
 - [Veggie Ipsum](http://veggieipsum.com/)
 - [Zombie Ipsum](http://www.zombieipsum.com/)
 
-### Hospedagem de Projetos
+### Hosting Projects
 - [Bitbucket](https://bitbucket.org/)
 - [Github](https://github.com/)
 - [Team Foundation Server](https://msdn.microsoft.com/en-us/vstudio/ff637362.aspx)
 
-### Otimizadores de imagens
+### Images Optimizers
 - [Compressor.io](https://compressor.io/)
 - [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI)
 - [Smush](http://www.smushit.com/ysmush.it/)
 - [Tiny png](https://tinypng.com/)
 
-### Qualidade de Código
+### Code Quality
 - [CSS Lint](http://csslint.net/)
 - [JS Hint](http://jshint.com/)
 - [Validador de HTML](http://validator.w3.org/)
@@ -195,10 +194,10 @@ Abaixo uma lista com links de ferramentas online úteis para desenvolvedores Fro
 - [SVG Editor](http://petercollingridge.appspot.com/svg-editor/)
 - [SVG Edit](http://svg-edit.googlecode.com/)
 
-### Validação de acessibilidade
+### Acessibility Validators
 - [508 Checker](http://www.508checker.com/)
 - [Check My Colours](http://www.checkmycolours.com/)
-- [DaSilva](http://www.dasilva.org.br/)
+- [DaSilva](http://www.dasilva.org.br/) <span>&#x1f1e7;&#x1f1f7;</span>
 
 ## License
 
