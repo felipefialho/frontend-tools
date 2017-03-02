@@ -213,6 +213,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## Style Guide Generators
 
+- [Catalog](https://interactivethings.github.io/catalog/)
 - [Stylify Me](http://stylifyme.com/)
 
 ## Sprites Generators
