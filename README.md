@@ -45,11 +45,14 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [508 Checker](http://www.508checker.com/)
 - [Check My Colours](http://www.checkmycolours.com/)
 - [DaSilva](http://www.dasilva.org.br/) <span>&#x1f1e7;&#x1f1f7;</span>
+- [Jaws](http://www.freedomscientific.com/Products/Blindness/JAWS)
 
 ## API
 
 - [Apiary](https://apiary.io/)
 - [Mashape](https://www.mashape.com/)
+- [Swagger](http://swagger.io/)
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/)
 
 ## Code Quality
 
@@ -153,6 +156,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [PageSpeed](https://developers.google.com/speed/pagespeed/insights/)
 - [Web Page Test](http://webpagetest.org/)
 - [YSlow](http://yslow.org/)
+- [Woorank](https://www.woorank.com/pt)
 
 ## Offline Docs
 
@@ -239,6 +243,10 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Veggie Ipsum](http://veggieipsum.com/)
 - [Zombie Ipsum](http://www.zombieipsum.com/)
 
+## Testing
+
+- [Testr](http://testr.com.br/)
+
 ## Visits Analysis
 
 - [Alexa](http://www.alexa.com/)
@@ -250,6 +258,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Bower](http://bower.io/search/?q=web-components)
 - [Component Kitchen](http://component.kitchen/components)
 - [Custom Elements](http://customelements.io/)
+- [Polymer](https://www.polymer-project.org/1.0/)
 
 ## License
 
