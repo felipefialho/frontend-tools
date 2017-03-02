@@ -110,6 +110,10 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 - [MJML - Email Framework](https://mjml.io/)
 
+## Git
+
+- [gitignore.io](https://www.gitignore.io/)
+
 ## Hosting Projects
 
 - [Bitbucket](https://bitbucket.org/)
