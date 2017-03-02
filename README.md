@@ -86,6 +86,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [CSS Triangle Generator](http://apps.eky.hk/css-triangle-generator/)
 - [CSS3 Generator](http://css3generator.com/)
 - [UIGradients](http://uigradients.com)
+- [WebGradients](https://webgradients.com/)
 
 ## Favicons Generators
 
@@ -103,12 +104,16 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## Forums
 
+- [Front-End Brasil](https://github.com/frontendbr/forum) <span>&#x1f1e7;&#x1f1f7;</span>
 - [Stackoverflow](http://stackoverflow.com/)
 - [Stackoverflow pt-br](http://pt.stackoverflow.com/) <span>&#x1f1e7;&#x1f1f7;</span>
-- [Front-End Brasil - Forum](https://github.com/frontendbr/forum) <span>&#x1f1e7;&#x1f1f7;</span>
+- [Tableless](http://forum.tableless.com.br/) <span>&#x1f1e7;&#x1f1f7;</span>
 
 ## Frameworks
 
+- [Bootstrap](http://getbootstrap.com/)
+- [Foundation](http://foundation.zurb.com/)
+- [Foundation for Emails](http://foundation.zurb.com/emails.html)
 - [MJML - Email Framework](https://mjml.io/)
 
 ## Git
@@ -119,6 +124,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 - [Bitbucket](https://bitbucket.org/)
 - [Github](https://github.com/)
+- [Gitlab](https://gitlab.com/)
 - [Team Foundation Server](https://msdn.microsoft.com/en-us/vstudio/ff637362.aspx)
 
 ## Icons Font Generators
