@@ -18,6 +18,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Favicons Generators](#favicons-generators)
 - [Font-face Generators](#font-face-generators)
 - [Forums](#forums)
+- [Frameworks](#frameworks)
 - [Hosting](#hosting-projects)
 - [Icons font generators](#icons-font-generators)
 - [Images Generators](#images-generators)
@@ -105,6 +106,10 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Stackoverflow pt-br](http://pt.stackoverflow.com/) <span>&#x1f1e7;&#x1f1f7;</span>
 - [Front-End Brasil - Forum](https://github.com/frontendbr/forum) <span>&#x1f1e7;&#x1f1f7;</span>
 
+## Frameworks
+
+- [MJML - Email Framework](https://mjml.io/)
+
 ## Hosting Projects
 
 - [Bitbucket](https://bitbucket.org/)
@@ -190,6 +195,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Marvel](https://marvelapp.com/)
 - [Mocking Bird](http://gomockingbird.com/)
 - [Wireframes](http://quirktools.com/wires/)
+- [Figma](https://www.figma.com/)
 
 ## PSD Extractors
 
