@@ -3,7 +3,7 @@
 # Frontender Tools 
 
 [![license](https://img.shields.io/github/license/LFeh/frontend-tools.svg)](./license.md)
-[![GitHub contributors](https://img.shields.io/github/contributors/LFeh/frontend-tools.svg)](https://github.com/LFeh/frontend-challenges/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/LFeh/frontend-tools.svg)](https://github.com/LFeh/frontend-tools/graphs/contributors)
 
 Follows a list with links of online useful tools to Front-End Developers.
 
