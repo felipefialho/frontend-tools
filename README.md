@@ -17,8 +17,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [CSS Generators](#css-generators)
 - [Favicons Generators](#favicons-generators)
 - [Font-face Generators](#font-face-generators)
-- [Forums](#forums)
-- [Frameworks](#frameworks)
+- [Foruns](#foruns) 
 - [Git](#git)
 - [Hosting](#hosting-projects)
 - [Icons font generators](#icons-font-generators)
@@ -102,19 +101,12 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Transfonter](http://transfonter.org/)
 - [Online Font Converter](https://onlinefontconverter.com/)
 
-## Forums
+## Foruns
 
 - [Front-End Brasil](https://github.com/frontendbr/forum) <span>&#x1f1e7;&#x1f1f7;</span>
 - [Stackoverflow](http://stackoverflow.com/)
 - [Stackoverflow pt-br](http://pt.stackoverflow.com/) <span>&#x1f1e7;&#x1f1f7;</span>
 - [Tableless](http://forum.tableless.com.br/) <span>&#x1f1e7;&#x1f1f7;</span>
-
-## Frameworks
-
-- [Bootstrap](http://getbootstrap.com/)
-- [Foundation](http://foundation.zurb.com/)
-- [Foundation for Emails](http://foundation.zurb.com/emails.html)
-- [MJML - Email Framework](https://mjml.io/)
 
 ## Git
 
