@@ -112,6 +112,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 ## Frameworks
 
 - [Bootstrap](http://getbootstrap.com/)
+- [Bulma](http://bulma.io/)
 - [Foundation](http://foundation.zurb.com/)
 - [Foundation for Emails](http://foundation.zurb.com/emails.html)
 - [MJML - Email Framework](https://mjml.io/)
