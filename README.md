@@ -44,8 +44,11 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 ## Acessibility Validators
 
 - [508 Checker](http://www.508checker.com/)
+- [Access Monitor](http://www.acessibilidade.gov.pt/accessmonitor/)
 - [Check My Colours](http://www.checkmycolours.com/)
 - [DaSilva](http://www.dasilva.org.br/) <span>&#x1f1e7;&#x1f1f7;</span>
+- [NVDA](https://www.nvaccess.org/)
+- [Tota11y](http://khan.github.io/tota11y/)
 - [Jaws](http://www.freedomscientific.com/Products/Blindness/JAWS)
 
 ## API
