@@ -62,6 +62,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [ESLint](http://eslint.org/)
 - [JS Hint](http://jshint.com/)
 - [HTML Validator](http://validator.w3.org/)
+- [Stylelint](https://stylelint.io/)
 
 ## Cross Browser
 
