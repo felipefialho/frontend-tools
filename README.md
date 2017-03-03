@@ -155,6 +155,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 - [JavascriptOO](http://www.javascriptoo.com/)
 - [Unheap](http://www.unheap.com/)
+- [Vue.js](https://vuejs.org/)
 
 ## Mobile Devices Compatibility
 
