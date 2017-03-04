@@ -17,8 +17,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [CSS Generators](#css-generators)
 - [Favicons Generators](#favicons-generators)
 - [Font-face Generators](#font-face-generators)
-- [Forums](#forums)
-- [Frameworks](#frameworks)
+- [Foruns](#foruns) 
 - [Git](#git)
 - [Hosting](#hosting-projects)
 - [Icons font generators](#icons-font-generators)
@@ -45,8 +44,11 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 ## Acessibility Validators
 
 - [508 Checker](http://www.508checker.com/)
+- [Access Monitor](http://www.acessibilidade.gov.pt/accessmonitor/)
 - [Check My Colours](http://www.checkmycolours.com/)
 - [DaSilva](http://www.dasilva.org.br/) <span>&#x1f1e7;&#x1f1f7;</span>
+- [NVDA](https://www.nvaccess.org/)
+- [Tota11y](http://khan.github.io/tota11y/)
 - [Jaws](http://www.freedomscientific.com/Products/Blindness/JAWS)
 
 ## API
@@ -103,7 +105,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Transfonter](http://transfonter.org/)
 - [Online Font Converter](https://onlinefontconverter.com/)
 
-## Forums
+## Foruns
 
 - [Front-End Brasil](https://github.com/frontendbr/forum) <span>&#x1f1e7;&#x1f1f7;</span>
 - [Stackoverflow](http://stackoverflow.com/)
