@@ -64,6 +64,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [ESLint](http://eslint.org/)
 - [JS Hint](http://jshint.com/)
 - [HTML Validator](http://validator.w3.org/)
+- [Stylelint](https://stylelint.io/)
 
 ## Cross Browser
 
@@ -111,6 +112,14 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Stackoverflow pt-br](http://pt.stackoverflow.com/) <span>&#x1f1e7;&#x1f1f7;</span>
 - [Tableless](http://forum.tableless.com.br/) <span>&#x1f1e7;&#x1f1f7;</span>
 
+## Frameworks
+
+- [Bootstrap](http://getbootstrap.com/)
+- [Bulma](http://bulma.io/)
+- [Foundation](http://foundation.zurb.com/)
+- [Foundation for Emails](http://foundation.zurb.com/emails.html)
+- [MJML - Email Framework](https://mjml.io/)
+
 ## Git
 
 - [gitignore.io](https://www.gitignore.io/)
@@ -149,6 +158,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 - [JavascriptOO](http://www.javascriptoo.com/)
 - [Unheap](http://www.unheap.com/)
+- [Vue.js](https://vuejs.org/)
 
 ## Mobile Devices Compatibility
 
