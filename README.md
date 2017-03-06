@@ -75,6 +75,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## Cross Device
 
+- [Responsa](http://thiagocanudo.com.br/responsa/)
 - [Responsinator](https://www.responsinator.com/)
 - [Responsive](http://responsive.victorcoulon.fr/)
 - [Responsive Design Testing](http://mattkersley.com/responsive/)
