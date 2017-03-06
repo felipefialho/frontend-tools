@@ -48,23 +48,24 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Access Monitor](http://www.acessibilidade.gov.pt/accessmonitor/)
 - [Check My Colours](http://www.checkmycolours.com/)
 - [DaSilva](http://www.dasilva.org.br/) <span>&#x1f1e7;&#x1f1f7;</span>
+- [Jaws](http://www.freedomscientific.com/Products/Blindness/JAWS)
 - [NVDA](https://www.nvaccess.org/)
 - [Tota11y](http://khan.github.io/tota11y/)
-- [Jaws](http://www.freedomscientific.com/Products/Blindness/JAWS)
 
 ## API
 
 - [Apiary](https://apiary.io/)
-- [Mashape](https://www.mashape.com/)
-- [Swagger](http://swagger.io/)
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+- [Mashape](https://www.mashape.com/)
+- [Mockbin](http://mockbin.org/)
+- [Swagger](http://swagger.io/)
 
 ## Code Quality
 
 - [CSS Lint](http://csslint.net/)
 - [ESLint](http://eslint.org/)
-- [JS Hint](http://jshint.com/)
 - [HTML Validator](http://validator.w3.org/)
+- [JS Hint](http://jshint.com/)
 - [Stylelint](https://stylelint.io/)
 
 ## Cross Browser
@@ -103,8 +104,8 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Font Squirrel](http://www.fontsquirrel.com/)
 - [Fontie](https://fontie.flowyapps.com/home)
 - [Google Fonts](https://www.google.com/fonts)
-- [Transfonter](http://transfonter.org/)
 - [Online Font Converter](https://onlinefontconverter.com/)
+- [Transfonter](http://transfonter.org/)
 
 ## Foruns
 
@@ -142,8 +143,8 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Character Entities](https://brajeshwar.github.io/entities/) :octocat:
 - [Fontello](http://fontello.com/)
 - [Font Awesome](http://fortawesome.github.io/Font-Awesome/) :octocat:
-- [Icon Moon](https://icomoon.io/)
 - [HTML Arrows](http://htmlarrows.com/)
+- [Icon Moon](https://icomoon.io/)
 
 ## Images Generators
 
@@ -157,11 +158,11 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 - [Compressor.io](https://compressor.io/)
 - [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) :octocat:
+- [JPEGmini](http://www.jpegmini.com/)
 - [Kraken.io](https://kraken.io/web-interface)
 - [Optimizilla](http://optimizilla.com/)
 - [Smush](http://www.smushit.com/ysmush.it/)
 - [Tiny png](https://tinypng.com/)
-- [JPEGmini](http://www.jpegmini.com/)
 
 ## Javascript Libs
 
@@ -185,8 +186,8 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [GTMetrix](http://gtmetrix.com/)
 - [PageSpeed](https://developers.google.com/speed/pagespeed/insights/)
 - [Web Page Test](http://webpagetest.org/)
-- [YSlow](http://yslow.org/)
 - [Woorank](https://www.woorank.com/pt)
+- [YSlow](http://yslow.org/)
 
 ## Offline Docs
 
@@ -220,12 +221,12 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## Prototypes Generators
 
+- [Figma](https://www.figma.com/)
 - [Marvel](https://marvelapp.com/)
 - [Mockflow](https://www.mockflow.com/)
 - [Mocking Bird](http://gomockingbird.com/)
 - [Moqups](https://moqups.com/)
 - [QuirkTools Wires](http://quirktools.com/wires/)
-- [Figma](https://www.figma.com/)
 - [Wireframe.cc](https://wireframe.cc/)
 
 ## PSD Extractors
