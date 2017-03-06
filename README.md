@@ -234,9 +234,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## SVG
 
-- [SVG Edit](http://svg-edit.googlecode.com/)
-- [SVG Editor](http://petercollingridge.appspot.com/svg-editor/)
-- [SVG Optimizer Online GUI](https://jakearchibald.github.io/svgomg/)
+- [Awesome SVG](https://github.com/willianjusten/awesome-svg) :octocat:
 
 ## Text Generators
 
