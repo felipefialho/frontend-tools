@@ -107,7 +107,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## Foruns
 
-- [Front-End Brasil](https://github.com/frontendbr/forum) <span>&#x1f1e7;&#x1f1f7;</span>
+- [Front-End Brasil](https://github.com/frontendbr/forum) :octocat: <span>&#x1f1e7;&#x1f1f7;</span>
 - [Stackoverflow](http://stackoverflow.com/)
 - [Stackoverflow pt-br](http://pt.stackoverflow.com/) <span>&#x1f1e7;&#x1f1f7;</span>
 - [Tableless](http://forum.tableless.com.br/) <span>&#x1f1e7;&#x1f1f7;</span>
@@ -127,20 +127,21 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 ## Hosting Projects
 
 - [Bitbucket](https://bitbucket.org/)
-- [Github](https://github.com/)
+- [Github](https://github.com/) :octocat:
 - [Gitlab](https://gitlab.com/)
 - [Team Foundation Server](https://msdn.microsoft.com/en-us/vstudio/ff637362.aspx)
 
 ## Icons Font Generators
 
-- [Character Entities](https://brajeshwar.github.io/entities/)
+- [Character Entities](https://brajeshwar.github.io/entities/) :octocat:
 - [Fontello](http://fontello.com/)
-- [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+- [Font Awesome](http://fortawesome.github.io/Font-Awesome/) :octocat:
 - [Icon Moon](https://icomoon.io/)
 - [HTML Arrows](http://htmlarrows.com/)
 
 ## Images Generators
 
+- [ConvertICO](http://convertico.com/)
 - [Fake images please?](http://fakeimg.pl/)
 - [Lorempixel](http://lorempixel.com/)
 - [Placehold.it](http://placehold.it/)
@@ -149,7 +150,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 ## Images Optimizers
 
 - [Compressor.io](https://compressor.io/)
-- [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI)
+- [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) :octocat:
 - [Kraken.io](https://kraken.io/web-interface)
 - [Smush](http://www.smushit.com/ysmush.it/)
 - [Tiny png](https://tinypng.com/)
@@ -226,7 +227,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## Style Guide Generators
 
-- [Catalog](https://interactivethings.github.io/catalog/)
+- [Catalog](https://interactivethings.github.io/catalog/) :octocat:
 - [Stylify Me](http://stylifyme.com/)
 
 ## Sprites Generators
@@ -237,9 +238,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## SVG
 
-- [SVG Edit](http://svg-edit.googlecode.com/)
-- [SVG Editor](http://petercollingridge.appspot.com/svg-editor/)
-- [SVG Optimizer Online GUI](https://jakearchibald.github.io/svgomg/)
+- [Awesome SVG](https://github.com/willianjusten/awesome-svg) :octocat:
 
 ## Text Generators
 
