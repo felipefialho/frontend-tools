@@ -64,6 +64,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [CSS Lint](http://csslint.net/)
 - [ESLint](http://eslint.org/)
 - [JS Hint](http://jshint.com/)
+- [JSCS](http://jscs.info/)
 - [HTML Validator](http://validator.w3.org/)
 - [Stylelint](https://stylelint.io/)
 
