@@ -38,7 +38,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Text generators](#text-generators)
 - [Visits Analysis](#visits-analysis)
 - [Web Components Libs](#web-components-libs)
-- [Feed Tools](#feed-tools)
+- [Feeds](#feeds)
 
 ----
 
