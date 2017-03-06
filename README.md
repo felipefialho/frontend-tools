@@ -18,6 +18,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Favicons Generators](#favicons-generators)
 - [Font-face Generators](#font-face-generators)
 - [Foruns](#foruns) 
+- [Feeds](#feeds)
 - [Git](#git)
 - [Hosting](#hosting-projects)
 - [Icons font generators](#icons-font-generators)
@@ -38,7 +39,6 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Text generators](#text-generators)
 - [Visits Analysis](#visits-analysis)
 - [Web Components Libs](#web-components-libs)
-- [Feeds](#feeds)
 
 ----
 
@@ -120,6 +120,11 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Foundation](http://foundation.zurb.com/)
 - [Foundation for Emails](http://foundation.zurb.com/emails.html)
 - [MJML - Email Framework](https://mjml.io/)
+
+## Feeds
+
+- [Feedly](https://feedly.com/)
+- [Pocket](https://getpocket.com/)
 
 ## Git
 
@@ -288,11 +293,6 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Component Kitchen](http://component.kitchen/components)
 - [Custom Elements](http://customelements.io/)
 - [Polymer](https://www.polymer-project.org/1.0/)
-
-## Feeds
-
-- [Feedly](https://feedly.com/)
-- [Pocket](https://getpocket.com/)
 
 ## License
 
