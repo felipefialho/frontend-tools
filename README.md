@@ -21,7 +21,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Feeds](#feeds)
 - [Git](#git)
 - [Hosting](#hosting-projects)
-- [Icons font generators](#icons-font-generators)
+- [Icon Fonts Generators](#icon-fonts-generators)
 - [Images Generators](#images-generators)
 - [Images Optimizers](#image-optimizers)
 - [Javascript Libs](#javascript-libs)
@@ -137,7 +137,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Gitlab](https://gitlab.com/)
 - [Team Foundation Server](https://msdn.microsoft.com/en-us/vstudio/ff637362.aspx)
 
-## Icons Font Generators
+## Icon Fonts Generators
 
 - [Character Entities](https://brajeshwar.github.io/entities/) :octocat:
 - [Fontello](http://fontello.com/)
