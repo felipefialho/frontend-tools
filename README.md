@@ -38,6 +38,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Text generators](#text-generators)
 - [Visits Analysis](#visits-analysis)
 - [Web Components Libs](#web-components-libs)
+- [Feeds](#feeds)
 
 ----
 
@@ -154,6 +155,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Kraken.io](https://kraken.io/web-interface)
 - [Smush](http://www.smushit.com/ysmush.it/)
 - [Tiny png](https://tinypng.com/)
+- [JPEGmini](http://www.jpegmini.com/)
 
 ## Javascript Libs
 
@@ -286,6 +288,11 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Component Kitchen](http://component.kitchen/components)
 - [Custom Elements](http://customelements.io/)
 - [Polymer](https://www.polymer-project.org/1.0/)
+
+## Feeds
+
+- [Feedly](https://feedly.com/)
+- [Pocket](https://getpocket.com/)
 
 ## License
 
