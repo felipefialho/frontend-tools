@@ -153,6 +153,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Compressor.io](https://compressor.io/)
 - [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) :octocat:
 - [Kraken.io](https://kraken.io/web-interface)
+- [Optimizilla](http://optimizilla.com/)
 - [Smush](http://www.smushit.com/ysmush.it/)
 - [Tiny png](https://tinypng.com/)
 - [JPEGmini](http://www.jpegmini.com/)
