@@ -16,6 +16,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Cross Browser](#cross-browser)
 - [Cross Device](#cross-device)
 - [CSS Generators](#css-generators)
+- [Data Generators](#data-generators)
 - [Favicons Generators](#favicons-generators)
 - [Font-face Generators](#font-face-generators)
 - [Foruns](#foruns) 
@@ -59,6 +60,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
 - [Mashape](https://www.mashape.com/)
 - [Mockbin](http://mockbin.org/)
+- [Mocky](http://www.mocky.io/)
 - [Swagger](http://swagger.io/)
 
 ## Bootstrap Generators
@@ -99,6 +101,11 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [CSS3 Generator](http://css3generator.com/)
 - [UIGradients](http://uigradients.com)
 - [WebGradients](https://webgradients.com/)
+
+## Data Generators
+
+- [Generate Data](http://www.generatedata.com/)
+- [Mockaroo](https://www.mockaroo.com/)
 
 ## Favicons Generators
 
