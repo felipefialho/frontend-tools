@@ -233,6 +233,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 ## Static Generators
 
 - [Harp](http://harpjs.com/)
+- [Jekyll](http://jekyllrb.com/)
 
 ## Style Guide Generators
 
