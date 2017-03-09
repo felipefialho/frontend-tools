@@ -240,6 +240,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Jekyll](http://jekyllrb.com/)
 - [Metalsmith](http://www.metalsmith.io/)
 - [Middleman](http://middlemanapp.com/)
+- [Octopress](http://octopress.org/)
 - [Pelican](https://blog.getpelican.com/)
 
 ## Style Guide Generators
