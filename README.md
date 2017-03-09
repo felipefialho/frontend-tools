@@ -238,6 +238,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Hexo](http://hexo.io/)
 - [Hugo](http://gohugo.io/)
 - [Jekyll](http://jekyllrb.com/)
+- [Metalsmith](http://www.metalsmith.io/)
 - [Pelican](https://blog.getpelican.com/)
 
 ## Style Guide Generators
