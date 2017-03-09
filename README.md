@@ -32,6 +32,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Online Editors](#online-editors)
 - [Prototypes generators](#prototypes-generators)
 - [PSD Extractors](#psd-extractors)
+- [Static Generators](#static-generators)
 - [Style Guide Generators](#style-guide-generators)
 - [Sprites generators](#sprites-generators)
 - [SVG](#svg)
@@ -228,6 +229,9 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Avocode](https://avocode.com/) _Trial/Paid_
 - [Extract Adobe](http://www.adobe.com/br/creativecloud/extract.html)
 - [Project Parfait](https://projectparfait.adobe.com/)
+
+## Static Generators
+
 
 ## Style Guide Generators
 
