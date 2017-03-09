@@ -233,6 +233,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 ## Static Generators
 
 - [Harp](http://harpjs.com/)
+- [Hexo](http://hexo.io/)
 - [Hugo](http://gohugo.io/)
 - [Jekyll](http://jekyllrb.com/)
 
