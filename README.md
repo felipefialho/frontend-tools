@@ -232,17 +232,18 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## Static Generators
 
-- [Brunch](http://brunch.io/)
-- [Expose](https://github.com/Jack000/Expose)
+- [Brunch](http://brunch.io/) :octocat:
+- [Expose](https://github.com/Jack000/Expose) :octocat:
 - [Gatsby](https://github.com/gatsbyjs/gatsby) :octocat:
-- [Harp](http://harpjs.com/)
-- [Hexo](http://hexo.io/)
-- [Hugo](http://gohugo.io/)
-- [Jekyll](http://jekyllrb.com/)
-- [Metalsmith](http://www.metalsmith.io/)
-- [Middleman](http://middlemanapp.com/)
-- [Octopress](http://octopress.org/)
-- [Pelican](https://blog.getpelican.com/)
+- [Harp](http://harpjs.com/) :octocat:
+- [Hexo](http://hexo.io/) :octocat:
+- [Hugo](http://gohugo.io/) :octocat:
+- [Jekyll](http://jekyllrb.com/) :octocat:
+- [Metalsmith](http://www.metalsmith.io/) :octocat:
+- [Middleman](http://middlemanapp.com/) :octocat:
+- [Octopress](http://octopress.org/) :octocat:
+- [Pelican](https://blog.getpelican.com/) :octocat:
+- [Wintersmith](http://wintersmith.io/) :octocat:
 
 ## Style Guide Generators
 
