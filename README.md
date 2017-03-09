@@ -232,6 +232,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## Static Generators
 
+- [Brunch](http://brunch.io/)
 - [Gatsby](https://github.com/gatsbyjs/gatsby) :octocat:
 - [Harp](http://harpjs.com/)
 - [Hexo](http://hexo.io/)
