@@ -18,14 +18,14 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [CSS Generators](#css-generators)
 - [Data Generators](#data-generators)
 - [Favicons Generators](#favicons-generators)
+- [Feeds](#feeds)
 - [Font-face Generators](#font-face-generators)
 - [Foruns](#foruns) 
-- [Feeds](#feeds)
 - [Git](#git)
 - [Hosting](#hosting-projects)
 - [Icon Fonts Generators](#icon-fonts-generators)
 - [Images Generators](#images-generators)
-- [Images Optimizers](#image-optimizers)
+- [Images Optimizers](#images-optimizers)
 - [Javascript Libs](#javascript-libs)
 - [Mobile Devices Compatibility](#mobile-devices-compatibility)
 - [Names Generators](#names-generators)
@@ -113,6 +113,11 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Favicon & App Icon Generator](http://www.favicon-generator.org/)
 - [Real Favicon Generator](http://realfavicongenerator.net/)
 
+## Feeds
+
+- [Feedly](https://feedly.com/)
+- [Pocket](https://getpocket.com/)
+
 ## Font-Face Generators
 
 - [Font Squirrel](http://www.fontsquirrel.com/)
@@ -137,10 +142,6 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Materialize CSS](http://materializecss.com/)
 - [MJML - Email Framework](https://mjml.io/)
 
-## Feeds
-
-- [Feedly](https://feedly.com/)
-- [Pocket](https://getpocket.com/)
 
 ## Git
 
@@ -178,6 +179,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Optimizilla](http://optimizilla.com/)
 - [Smush](http://www.smushit.com/ysmush.it/)
 - [Tiny png](https://tinypng.com/)
+- [Compress png](http://compresspng.com/)
 
 ## Javascript Libs
 
