@@ -230,6 +230,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Codiad](http://codiad.com/)
 - [CSS Deck](http://cssdeck.com/)
 - [Ideone](https://ideone.com/)
+- [Jade/Pug Editor](http://aramboyajyan.github.io/online-jade-template-editor)
 - [Jsbin](http://jsbin.com/)
 - [Jsfiddle](http://jsfiddle.net/)
 - [Kodtest](http://kodtest.com/)
