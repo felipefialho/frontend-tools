@@ -267,6 +267,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 ## SVG
 
 - [Awesome SVG](https://github.com/willianjusten/awesome-svg) :octocat:
+- [Svgomg](https://jakearchibald.github.io/svgomg/)
 
 ## Text Generators
 
