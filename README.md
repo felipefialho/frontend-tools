@@ -36,10 +36,11 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Online Editors](#online-editors)
 - [Prototypes generators](#prototypes-generators)
 - [PSD Extractors](#psd-extractors)
+- [Share Utils](#share-utils)
 - [Style Guide Generators](#style-guide-generators)
-- [Sprites generators](#sprites-generators)
+- [Sprites Generators](#sprites-generators)
 - [SVG](#svg)
-- [Text generators](#text-generators)
+- [Text Generators](#text-generators)
 - [Visits Analysis](#visits-analysis)
 - [Web Components Libs](#web-components-libs)
 
@@ -259,10 +260,15 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Extract Adobe](http://www.adobe.com/br/creativecloud/extract.html)
 - [Project Parfait](https://projectparfait.adobe.com/)
 
+## Share utils
+
+- [Carbon](https://carbon.now.sh/)
+- [screenshot.rocks](https://screenshot.rocks/#)
+
 ## Style Guide Generators
 
 - [Catalog](https://interactivethings.github.io/catalog/) :octocat:
-- [Stylify Me](http://stylifyme.com/)
+- [Stylify Me](https://screenshot.rocks/#)
 
 ## Sprites Generators
 
