@@ -70,6 +70,10 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [BootsButton](http://www.thiagocanudo.com.br/bootsbutton/)
 - [Shoelace](http://shoelace.io/)
 
+## Bootstrap Cheatsheets
+
+- [Bootstrap 5 Cheastsheet](https://bootstrap-cheatsheet.themeselection.com/)
+
 ## Code Quality
 
 - [CSS Lint](http://csslint.net/)
