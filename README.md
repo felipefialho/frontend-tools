@@ -142,7 +142,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## Frameworks
 
-- [AgnosticUI](https://www.agnosticui.com/) - Accessible React component primitives that also work with Vue 3, Svelte, and Angular!
+- [AgnosticUI](https://www.agnosticui.com/)
 - [Bootstrap](http://getbootstrap.com/)
 - [Bulma](http://bulma.io/)
 - [Foundation](http://foundation.zurb.com/)
