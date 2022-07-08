@@ -180,6 +180,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## Images Optimizers
 
+- [Image Host Company](https://www.imagehostcompany.com/)
 - [Compressor.io](https://compressor.io/)
 - [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) :octocat:
 - [JPEGmini](http://www.jpegmini.com/)
@@ -281,6 +282,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## SVG
 
+- [Sinwaver Generate SVG Sine Waves](https://www.sinwaver.com/)
 - [Awesome SVG](https://github.com/willianjusten/awesome-svg) :octocat:
 - [Svgomg](https://jakearchibald.github.io/svgomg/)
 
