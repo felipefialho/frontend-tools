@@ -208,11 +208,12 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## Performance Analysis
 
+- [DebugBear Speed Test](https://www.debugbear.com/test/website-speed)
 - [GTMetrix](http://gtmetrix.com/)
 - [PageSpeed](https://developers.google.com/speed/pagespeed/insights/)
+- [YSlow](http://yslow.org/)
 - [Web Page Test](http://webpagetest.org/)
 - [Woorank](https://www.woorank.com/pt)
-- [YSlow](http://yslow.org/)
 
 ## Offline Docs
 
