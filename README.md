@@ -209,6 +209,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 ## Performance Analysis
 
 - [GTMetrix](http://gtmetrix.com/)
+- [DebugBear Speed Test](https://www.debugbear.com/test/website-speed)
 - [PageSpeed](https://developers.google.com/speed/pagespeed/insights/)
 - [Web Page Test](http://webpagetest.org/)
 - [Woorank](https://www.woorank.com/pt)
