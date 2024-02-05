@@ -71,9 +71,6 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [BootsButton](http://www.thiagocanudo.com.br/bootsbutton/)
 - [Shoelace](http://shoelace.io/)
 
-## VueJS
-- [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/)
-
 ## Code Quality
 
 - [CSS Lint](http://csslint.net/)
@@ -321,6 +318,11 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 ## Testing
 
 - [Testr](http://testr.com.br/)
+
+## Vue
+
+- [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/)
+
 
 ## Visits Analysis
 
