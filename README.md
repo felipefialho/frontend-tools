@@ -285,6 +285,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 - [Sinwaver Generate SVG Sine Waves](https://www.sinwaver.com/)
 - [Awesome SVG](https://github.com/willianjusten/awesome-svg) :octocat:
+- [PixelTools Image to SVG](https://pixeltools.ai/image-to-svg) - Convert PNG images to adjustable SVG vectors in the browser.
 - [Svgomg](https://jakearchibald.github.io/svgomg/)
 
 ## Text Generators
