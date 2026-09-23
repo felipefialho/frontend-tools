@@ -77,6 +77,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [ESLint](http://eslint.org/)
 - [HTML Validator](http://validator.w3.org/)
 - [JS Hint](http://jshint.com/)
+- [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 - [Stylelint](https://stylelint.io/)
 
 ## Cross Browser
