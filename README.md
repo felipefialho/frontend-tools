@@ -234,11 +234,10 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## Online editors
 
-- [Codeanywhere](https://codeanywhere.com/)
+- [Coddy](https://coddy.tech/playground/html)
 - [CodeCast](http://www.codecast.me/launch/)
 - [Codepen](http://codepen.io/)
 - [Codiad](http://codiad.com/)
-- [CSS Deck](http://cssdeck.com/)
 - [Ideone](https://ideone.com/)
 - [Jade/Pug Editor](http://aramboyajyan.github.io/online-jade-template-editor)
 - [Jsbin](http://jsbin.com/)
