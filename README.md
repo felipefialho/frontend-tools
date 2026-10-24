@@ -112,6 +112,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## Favicons Generators
 
+- [APPLORE App Icon Generator](https://applore.app/app-icon-generator)
 - [Favic-o-matic](http://www.favicomatic.com/)
 - [Favicon & App Icon Generator](http://www.favicon-generator.org/)
 - [Real Favicon Generator](http://realfavicongenerator.net/)
